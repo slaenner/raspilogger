@@ -1,5 +1,5 @@
-
-
+#if !defined DHT11_H
+#define DHT11_H
 
 /* Access from ARM Running Linux */
 
@@ -28,3 +28,8 @@ SensorData_t* GetData(int pin);
 
 /* Calculate the devpoint from temperature and relative humidity */
 double DewPoint(double celsius, double humidity);
+
+int dht(void);
+void dhtInit(void);
+
+#endif

@@ -8,6 +8,9 @@
 int main(int argc, char **argv)
 {  
   printf("Entered main program\n");
+  dhtInit();
+  dht();
+  dht();
   return 0;
 }
 

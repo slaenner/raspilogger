@@ -1,0 +1,5 @@
+
+#include "dht11.h"
+
+int bcm2835_init(void);
+SensorData_t* GetData(int pin);

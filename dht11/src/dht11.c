@@ -24,54 +24,62 @@
 #if !defined(SIMULATION)
 #include <bcm2835.h>
 #include <linux/i2c-dev.h>
+#else
+#include "stubs.h"
 #endif
 
 #include "dht11.h"
 
-int dht(int argc, char **argv)
+static int initialized = 0;
+
+void dhtInit(void)
 {
-#if !defined(SIMULATION)
-  SensorData_t *pSensorData;
-  
   if (bcm2835_init() == 0)
   {
     exit(0);
   }
+  printf("BMC2835 init success!");
+  initialized = 1;
+}
 
-  while(1)
+int dht(void)
+{
+  SensorData_t *pSensorData;
+  
+  if (initialized == 0)
   {
-//    printf("Entered while\n");
-    /* Read the data from sensor #1 */
-    pSensorData = GetData(DHT11_1_Pin);
-  
-    /* When the sensor reads data print it */
-    if(pSensorData->NewData == DHT11_OK)
-    {
-      printf("DHT11 #1: Temp: %dC, RH: %d, DP: %fC\n", pSensorData->TemperatureC, pSensorData->RHPercent, pSensorData->DevPointC);
-    }
-    else
-    {
-      printf("Failed reading DHT11 #1 - %d\n", pSensorData->NewData);
-    }
-  
-    /* Read the data from sensor #1 */
-    pSensorData = GetData(DHT11_2_Pin);
-  
-    /* When the sensor reads data print it */
-    if(pSensorData->NewData == DHT11_OK)
-    {
-      printf("DHT11 #2: Temp: %dC, RH: %d, DP: %fC\n", pSensorData->TemperatureC, pSensorData->RHPercent, pSensorData->DevPointC);
-    }
-    else
-    {
-      printf("Failed reading DHT11 #2 - %d\n", pSensorData->NewData);
-    }
-
-    printf("Sleeping...\n\n");
-    usleep(500000);
-
+    printf("Error BMC2835 not initialized\n");
+    exit(0);
   }
-#endif
+
+  /* Read the data from sensor #1 */
+  pSensorData = GetData(DHT11_1_Pin);
+  
+  /* When the sensor reads data print it */
+  if(pSensorData->NewData == DHT11_OK)
+  {
+    printf("DHT11 #1: Temp: %dC, RH: %d, DP: %fC\n", pSensorData->TemperatureC, pSensorData->RHPercent, pSensorData->DevPointC);
+  }
+  else
+  {
+    printf("Failed reading DHT11 #1 - %d\n", pSensorData->NewData);
+  }
+  
+  /* Read the data from sensor #1 */
+  pSensorData = GetData(DHT11_2_Pin);
+  
+  /* When the sensor reads data print it */
+  if(pSensorData->NewData == DHT11_OK)
+  {
+    printf("DHT11 #2: Temp: %dC, RH: %d, DP: %fC\n", pSensorData->TemperatureC, pSensorData->RHPercent, pSensorData->DevPointC);
+  }
+  else
+  {
+    printf("Failed reading DHT11 #2 - %d\n", pSensorData->NewData);
+  }
+
+  usleep(500000);
+
   return 0;
 }
 
@@ -93,12 +101,13 @@ double DewPoint(double celsius, double humidity)
 int bits[250], data[100];
 int bitidx = 0;
 
+#if !defined(SIMULATION)
 SensorData_t* GetData(int pin)
 {
   /* Allocate memory to which return point will be given */
   static SensorData_t ReturnData;
   ReturnData.NewData = DHT11_ERROR;
-#if !defined(SIMULATION)
+
   int counter = 0;
   int laststate = HIGH;
   int j=0;
@@ -110,7 +119,6 @@ SensorData_t* GetData(int pin)
   
   // Set GPIO pin to output
   bcm2835_gpio_fsel(pin, BCM2835_GPIO_FSEL_OUTP);
-  
   bcm2835_gpio_write(pin, HIGH);
   usleep(500000);  // 500 ms
   bcm2835_gpio_write(pin, LOW);
@@ -148,8 +156,6 @@ SensorData_t* GetData(int pin)
     }
   }
   
-  //printf("Data (%d): 0x%x 0x%x 0x%x 0x%x 0x%x\n", j, data[0], data[1], data[2], data[3], data[4]);
-  
   /* Check if 40 bits was returned from sensor */
   if(j < 39)
   {
@@ -172,6 +178,7 @@ SensorData_t* GetData(int pin)
     ReturnData.NewData = DHT11_OK;
     return &ReturnData;
   }
-#endif
+
   return &ReturnData;
 }
+#endif
