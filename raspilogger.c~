@@ -1,0 +1,31 @@
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+
+#include "logger.h"
+#include "dht11.h"
+
+static int LogFileHandle = 0;
+static char LogFileName[] = "LogData.txt";
+
+void InitLogger()
+{
+	DhtInit();
+	LogFileHandle = OpenLogFile(LogFileName);
+}
+
+void ExitLogger()
+{
+	CloseLogFile(LogFileHandle);
+}
+
+int main(int argc, char **argv)
+{  
+  printf("Entered main program\n");
+
+  dht();
+  dht();
+
+  return 0;
+}
+

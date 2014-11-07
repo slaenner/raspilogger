@@ -14,10 +14,6 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <sys/time.h>
-
-#include <unistd.h>
-
-
 #include <sys/ioctl.h>
 #include <math.h>
 
@@ -32,17 +28,17 @@
 
 static int initialized = 0;
 
-void dhtInit(void)
+void DhtInit(void)
 {
   if (bcm2835_init() == 0)
   {
     exit(0);
   }
-  printf("BMC2835 init success!");
+  printf("BMC2835 init success!\n");
   initialized = 1;
 }
 
-int dht(void)
+void ReadDht11(SensorData_t * ReturnData, int SensorId)
 {
   SensorData_t *pSensorData;
   
@@ -52,35 +48,41 @@ int dht(void)
     exit(0);
   }
 
-  /* Read the data from sensor #1 */
-  pSensorData = GetData(DHT11_1_Pin);
+  if(SensorId == DHT11_SENSOR_1)
+  {
+    /* Read the data from sensor #1 */
+    pSensorData = GetData(DHT11_1_Pin);
   
-  /* When the sensor reads data print it */
-  if(pSensorData->NewData == DHT11_OK)
-  {
-    printf("DHT11 #1: Temp: %dC, RH: %d, DP: %fC\n", pSensorData->TemperatureC, pSensorData->RHPercent, pSensorData->DevPointC);
-  }
-  else
-  {
-    printf("Failed reading DHT11 #1 - %d\n", pSensorData->NewData);
+    /* When the sensor reads data print it */
+    if(pSensorData->NewData == DHT11_OK)
+    {
+      //printf("DHT11 #1: Temp: %dC, RH: %d, DP: %fC\n", pSensorData->TemperatureC, pSensorData->RHPercent, pSensorData->DevPointC);
+    }
+    else
+    {
+      printf("Failed reading DHT11 #1 - %d\n", pSensorData->NewData);
+    }
   }
   
-  /* Read the data from sensor #1 */
-  pSensorData = GetData(DHT11_2_Pin);
+  if(SensorId == DHT11_SENSOR_2)
+  {
+    /* Read the data from sensor #1 */
+    pSensorData = GetData(DHT11_2_Pin);
   
-  /* When the sensor reads data print it */
-  if(pSensorData->NewData == DHT11_OK)
-  {
-    printf("DHT11 #2: Temp: %dC, RH: %d, DP: %fC\n", pSensorData->TemperatureC, pSensorData->RHPercent, pSensorData->DevPointC);
+    /* When the sensor reads data print it */
+    if(pSensorData->NewData == DHT11_OK)
+    {
+      //printf("DHT11 #2: Temp: %dC, RH: %d, DP: %fC\n", pSensorData->TemperatureC, pSensorData->RHPercent, pSensorData->DevPointC);
+    }
+    else
+    {
+      printf("Failed reading DHT11 #2 - %d\n", pSensorData->NewData);
+    }
   }
-  else
-  {
-    printf("Failed reading DHT11 #2 - %d\n", pSensorData->NewData);
-  }
+
+  *ReturnData = *pSensorData;
 
   usleep(500000);
-
-  return 0;
 }
 
 // dewPoint function NOAA

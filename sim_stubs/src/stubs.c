@@ -1,7 +1,3 @@
-// Header
-
-
-
 #if defined(SIMULATION)
 
 #include <stdio.h>
@@ -16,7 +12,10 @@ SensorData_t* GetData(int pin)
 {  
   static SensorData_t ReturnData;
 
-  ReturnData.TemperatureC = 23;
+  if(pin == DHT11_1_Pin)
+    ReturnData.TemperatureC = 21;
+  else
+    ReturnData.TemperatureC = 22;
   ReturnData.RHPercent = 75;
   ReturnData.DevPointC = DewPoint((double)ReturnData.TemperatureC, (double)ReturnData.RHPercent);
   ReturnData.NewData = DHT11_OK;
