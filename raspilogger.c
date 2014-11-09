@@ -5,18 +5,31 @@
 #include "logger.h"
 #include "dht11.h"
 
-static int LogFileHandle = 0;
-static char LogFileName[] = "LogData.txt";
+static FILE *LogFileHandle;
+static FILE *PrgDbgLogFileHandle;
+
+void PrintDbgLog(char *str)
+{
+  
+}
+
 
 void InitLogger()
 {
+  /* Open log file used for logging sensor data */
+  LogFileHandle = OpenLogFile("LogData.txt");
+  PrgDbgLogFileHandle = OpenLogFile("PrgDbgLog.txt");
+  PrintDbgLog("Opened log files for write\n");
+
+  /* Initialize DHT11 sensors */
   DhtInit();
-  LogFileHandle = OpenLogFile(LogFileName);
+  PrintDbgLog("Initialized DHT11\n");
 }
 
 void ExitLogger()
 {
   CloseLogFile(LogFileHandle);
+  CloseLogFile(PrgDbgLogFileHandle);
 }
 
 int main(int argc, char **argv)

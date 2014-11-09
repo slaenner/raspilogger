@@ -1,7 +1,9 @@
 #if !defined(LOGGER_H)
 #define LOGGER_H
 
-int OpenLogFile(char *FileName);
-void CloseLogFile(int handle);
+#include <stdio.h>
+
+FILE *OpenLogFile(char *FileName);
+void CloseLogFile(FILE *handle);
 
 #endif

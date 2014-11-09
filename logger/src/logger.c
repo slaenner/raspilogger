@@ -6,20 +6,20 @@
 #include "logger.h"
 #include "dht11.h"
 
-int OpenLogFile(char *FileName)
+FILE *OpenLogFile(char *FileName)
 {
-  int filedescriptor = 0;
+  FILE *fp = NULL;
 
-  if ((filedescriptor = open(FileName, O_WRONLY)) < 0)
+  if((fp = fopen(FileName, "w")) == NULL)
   {
     printf("Failed to open %s\n", FileName);
     exit(1);
   }
 
-  return filedescriptor;
+  return fp;
 }
 
-void CloseLogFile(int handle)
+void CloseLogFile(FILE *handle)
 {
-  close(handle);
+  fclose(handle);
 }
