@@ -1,0 +1,7 @@
+11-10-2014 19:38:46 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-10-2014 19:38:46 Init(): Logger initialized
+11-10-2014 19:38:46 Init(): DHT11 sensors initialized
+11-10-2014 19:38:46 main(): Raspilogger initialized
+11-10-2014 19:38:47 Exit(): Closing down log files
+11-10-2014 19:38:47 Exit(): Calling logger exit function
+11-10-2014 19:38:47 ExitLogger(): Closing debug log file

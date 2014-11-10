@@ -21,6 +21,7 @@
 #include <math.h>
 
 #include "bmc.h"
+#include "logger.h"
 
 void InitBmcHw()
 {
@@ -34,11 +35,11 @@ void TogglePin()
 {
   ControlPin(AMP_R_CHANNEL, HIGH);
   ControlPin(AMP_L_CHANNEL, LOW);
-  printf("Setting pins\n");
+  RL_PRINT("Setting pins\n");
   usleep(500000);
   ControlPin(AMP_R_CHANNEL, LOW);
   ControlPin(AMP_L_CHANNEL, HIGH);
-  printf("Toggling pins\n");
+  RL_PRINT("Toggling pins\n");
   usleep(500000);
 }
 

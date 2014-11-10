@@ -34,7 +34,6 @@ void DhtInit(void)
   {
     exit(0);
   }
-  printf("BMC2835 init success!\n");
   initialized = 1;
 }
 
@@ -44,7 +43,7 @@ void ReadDht11(SensorData_t * ReturnData, int SensorId)
   
   if (initialized == 0)
   {
-    printf("Error BMC2835 not initialized\n");
+    fprintf(stderr, "Error BMC2835 not initialized\n");
     exit(0);
   }
 
@@ -54,13 +53,9 @@ void ReadDht11(SensorData_t * ReturnData, int SensorId)
     pSensorData = GetData(DHT11_1_Pin);
   
     /* When the sensor reads data print it */
-    if(pSensorData->NewData == DHT11_OK)
+    if(pSensorData->NewData != DHT11_OK)
     {
-      //printf("DHT11 #1: Temp: %dC, RH: %d, DP: %fC\n", pSensorData->TemperatureC, pSensorData->RHPercent, pSensorData->DevPointC);
-    }
-    else
-    {
-      printf("Failed reading DHT11 #1 - %d\n", pSensorData->NewData);
+      fprintf(stderr, "Failed reading DHT11 #1 - %d\n", pSensorData->NewData);
     }
   }
   
@@ -70,11 +65,7 @@ void ReadDht11(SensorData_t * ReturnData, int SensorId)
     pSensorData = GetData(DHT11_2_Pin);
   
     /* When the sensor reads data print it */
-    if(pSensorData->NewData == DHT11_OK)
-    {
-      //printf("DHT11 #2: Temp: %dC, RH: %d, DP: %fC\n", pSensorData->TemperatureC, pSensorData->RHPercent, pSensorData->DevPointC);
-    }
-    else
+    if(pSensorData->NewData != DHT11_OK)
     {
       printf("Failed reading DHT11 #2 - %d\n", pSensorData->NewData);
     }

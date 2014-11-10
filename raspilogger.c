@@ -6,45 +6,47 @@
 #include "dht11.h"
 
 static FILE *LogFileHandle;
-static FILE *PrgDbgLogFileHandle;
 
-void PrintDbgLog(char *str)
+
+void Init(void)
 {
-  
-}
+  /* Initialize the logger module */
+  InitLogger();
 
-
-void InitLogger()
-{
   /* Open log file used for logging sensor data */
   LogFileHandle = OpenLogFile("LogData.txt");
-  PrgDbgLogFileHandle = OpenLogFile("PrgDbgLog.txt");
-  PrintDbgLog("Opened log files for write\n");
+
+  RL_PRINT("Logger initialized\n");
 
   /* Initialize DHT11 sensors */
   DhtInit();
-  PrintDbgLog("Initialized DHT11\n");
+  RL_PRINT("DHT11 sensors initialized\n");
 }
 
-void ExitLogger()
+void Exit(void)
 {
+  RL_PRINT("Closing down log files\n");
   CloseLogFile(LogFileHandle);
-  CloseLogFile(PrgDbgLogFileHandle);
+
+  RL_PRINT("Calling logger exit function\n");
+  ExitLogger();
 }
 
 int main(int argc, char **argv)
 {  
   SensorData_t ReturnData;
-  printf("Entered main program\n");
-  InitLogger();
+
+  /* Initialize raspilogger */
+  Init();
+
+  RL_PRINT("Raspilogger initialized\n");
 
   ReadDht11(&ReturnData, DHT11_SENSOR_1);
-  printf("ReturnData.TemperatureC=%d\n", ReturnData.TemperatureC);
-
   ReadDht11(&ReturnData, DHT11_SENSOR_2);
-  printf("ReturnData.TemperatureC=%d\n", ReturnData.TemperatureC);
+  //RL_PRINT("ReturnData.TemperatureC=\n", ReturnData.TemperatureC);
 
-  ExitLogger();
+  /* Shutdown raspilogger */
+  Exit();
   return 0;
 }
 
