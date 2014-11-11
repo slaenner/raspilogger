@@ -1,19 +1,21 @@
 CC = gcc
-CFLAGS =-Ih -Idht11/h -Ilogger/h -Wall
+CFLAGSCOM =-Ih -Idht11/h -Ilogger/h -Wall
 DEPS =
 OBJ = logger/src/logger.o dht11/src/dht11.o raspilogger.o
 
 OBJSIM = sim_stubs/src/stubs.o
 CFLAGSSIM = -Isim_stubs/h -DSIMULATION
 
+CFLAGSTGT = -lbcm2835 -lm
+
 %.o: %.c
-	$(CC) -c -o $@ $< $(CFLAGS) $(CFLAGSSIM)
+	$(CC) -c -o $@ $< $(CFLAGSCOM) $(CFLAGSTGT)
 
 raspberry: $(OBJ)
-	$(CC) -o $@ $^ $(CFLAGS)
+	$(CC) -o $@ $^ $(CFLAGSCOM) $(CFLAGSTGT)
 
 host: $(OBJ) $(OBJSIM)
-	$(CC) -o $@ $^ $(CFLAGS) $(CFLAGSSIM)
+	$(CC) -o $@ $^ $(CFLAGSCOM) $(CFLAGSSIM)
 
 clean:
 	rm $(OBJ)
