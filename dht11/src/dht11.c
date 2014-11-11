@@ -24,6 +24,7 @@
 #include "stubs.h"
 #endif
 
+#include "logger.h"
 #include "dht11.h"
 
 static int initialized = 0;
@@ -55,7 +56,7 @@ void ReadDht11(SensorData_t * ReturnData, int SensorId)
     /* When the sensor reads data print it */
     if(pSensorData->NewData != DHT11_OK)
     {
-      fprintf(stderr, "Failed reading DHT11 #1 - %d\n", pSensorData->NewData);
+      RL_PRINT("Failed reading DHT11 #1\n");
     }
   }
   
@@ -67,7 +68,7 @@ void ReadDht11(SensorData_t * ReturnData, int SensorId)
     /* When the sensor reads data print it */
     if(pSensorData->NewData != DHT11_OK)
     {
-      printf("Failed reading DHT11 #2 - %d\n", pSensorData->NewData);
+      RL_PRINT("Failed reading DHT11 #1\n");
     }
   }
 
