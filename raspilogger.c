@@ -14,7 +14,11 @@ void Init(void)
   InitLogger();
 
   /* Open log file used for logging sensor data */
+#if defined(SIMULATION)
   LogFileHandle = OpenLogFile("LogData.txt");
+#else
+  LogFileHandle = OpenLogFile("/home/pi/LogData/LogData.txt");
+#endif
 
   /* Initialize DHT11 sensors */
   DhtInit();
