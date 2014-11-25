@@ -90,8 +90,6 @@ void PrintDbgLog(const char *func, char *str)
   /* Write the specified string to the debug log */
   fprintf(fpdbg, "%s %s(): %s", buf, func, str);
 
-  /* Also print it to the screen in simulation mode */
-#if defined(SIMULATION)
+  /* Also print it to the screen */
   printf("%s %s(): %s", buf, func, str);
-#endif
 }
