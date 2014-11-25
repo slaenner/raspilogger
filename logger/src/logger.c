@@ -22,7 +22,11 @@ void ExitLogger(void)
 void InitLogger(void)
 {
   /* Open a program debug log file */
+#if defined(SIMULATION)
   fpdbg = OpenLogFile("PrgDbgLog.txt");
+#else
+  fpdbg = OpenLogFile("/home/pi/LogData/PrgDbgLog.txt");
+#endif
 
   /* Print to the program debug log file that a new "session" has started */
   PrintDbgLog(__FUNCTION__, "\n\n#### New program session ####\n\n");
