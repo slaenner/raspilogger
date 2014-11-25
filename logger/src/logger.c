@@ -73,7 +73,7 @@ void LogSensorData(FILE *handle, SensorData_t *data, unsigned int SensorId)
   sprintf(logstr, "Temp=%d\n", data->TemperatureC);
   fprintf(handle, "%s: [SENSOR%d]: %s", ts, SensorId, logstr);
 
-  sprintf(logstr, "RF=%d\n", data->RHPercent);
+  sprintf(logstr, "RH=%d\n", data->RHPercent);
   fprintf(handle, "%s: [SENSOR%d]: %s", ts, SensorId, logstr);
 
   sprintf(logstr, "DP=%f\n", data->DevPointC);
