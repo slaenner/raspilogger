@@ -1,0 +1,2744 @@
+created file
+11-25-2014 22:23:01 InitLogger(): 
+
+#### New program session ####
+
+11-25-2014 22:23:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-25-2014 22:23:01 Init(): Raspilogger Init() completed
+11-25-2014 22:23:01 main(): Raspilogger initialized
+11-25-2014 22:23:01 main(): Reading data from DHT11 Sensor 1
+11-25-2014 22:23:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-25-2014 22:23:01 ReadSensor(): Fetching data from DHT11
+11-25-2014 22:23:02 ReadSensor(): Data from DHT11 read OK
+11-25-2014 22:23:02 main(): Storing data from DHT11 Sensor 1
+11-25-2014 22:23:02 main(): Reading data from DHT11 Sensor 2
+11-25-2014 22:23:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-25-2014 22:23:02 ReadSensor(): Fetching data from DHT11
+11-25-2014 22:23:03 ReadDht11(): Failed reading DHT11 #1
+11-25-2014 22:23:03 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-25-2014 22:23:03 ReadSensor(): Fetching data from DHT11
+11-25-2014 22:23:04 ReadSensor(): Data from DHT11 read OK
+11-25-2014 22:23:04 main(): Storing data from DHT11 Sensor 2
+11-25-2014 22:23:04 Exit(): Raspilogger Exit() called
+11-25-2014 22:23:04 ExitLogger(): Closing debug log file
+11-25-2014 22:24:01 InitLogger(): 
+
+#### New program session ####
+
+11-25-2014 22:24:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-25-2014 22:24:01 Init(): Raspilogger Init() completed
+11-25-2014 22:24:01 main(): Raspilogger initialized
+11-25-2014 22:24:01 main(): Reading data from DHT11 Sensor 1
+11-25-2014 22:24:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-25-2014 22:24:01 ReadSensor(): Fetching data from DHT11
+11-25-2014 22:24:02 ReadDht11(): Failed reading DHT11 #1
+11-25-2014 22:24:02 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-25-2014 22:24:02 ReadSensor(): Fetching data from DHT11
+11-25-2014 22:24:04 ReadSensor(): Data from DHT11 read OK
+11-25-2014 22:24:04 main(): Storing data from DHT11 Sensor 1
+11-25-2014 22:24:04 main(): Reading data from DHT11 Sensor 2
+11-25-2014 22:24:04 ReadSensor(): Reading from DHT11 Sensor 2
+11-25-2014 22:24:04 ReadSensor(): Fetching data from DHT11
+11-25-2014 22:24:05 ReadSensor(): Data from DHT11 read OK
+11-25-2014 22:24:05 main(): Storing data from DHT11 Sensor 2
+11-25-2014 22:24:05 Exit(): Raspilogger Exit() called
+11-25-2014 22:24:05 ExitLogger(): Closing debug log file
+11-25-2014 22:25:01 InitLogger(): 
+
+#### New program session ####
+
+11-25-2014 22:25:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-25-2014 22:25:01 Init(): Raspilogger Init() completed
+11-25-2014 22:25:01 main(): Raspilogger initialized
+11-25-2014 22:25:01 main(): Reading data from DHT11 Sensor 1
+11-25-2014 22:25:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-25-2014 22:25:01 ReadSensor(): Fetching data from DHT11
+11-25-2014 22:25:01 ReadDht11(): Failed reading DHT11 #1
+11-25-2014 22:25:02 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-25-2014 22:25:02 ReadSensor(): Fetching data from DHT11
+11-25-2014 22:25:03 ReadSensor(): Data from DHT11 read OK
+11-25-2014 22:25:03 main(): Storing data from DHT11 Sensor 1
+11-25-2014 22:25:03 main(): Reading data from DHT11 Sensor 2
+11-25-2014 22:25:03 ReadSensor(): Reading from DHT11 Sensor 2
+11-25-2014 22:25:03 ReadSensor(): Fetching data from DHT11
+11-25-2014 22:25:04 ReadSensor(): Data from DHT11 read OK
+11-25-2014 22:25:04 main(): Storing data from DHT11 Sensor 2
+11-25-2014 22:25:04 Exit(): Raspilogger Exit() called
+11-25-2014 22:25:04 ExitLogger(): Closing debug log file
+11-25-2014 22:26:01 InitLogger(): 
+
+#### New program session ####
+
+11-25-2014 22:26:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-25-2014 22:26:01 Init(): Raspilogger Init() completed
+11-25-2014 22:26:01 main(): Raspilogger initialized
+11-25-2014 22:26:01 main(): Reading data from DHT11 Sensor 1
+11-25-2014 22:26:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-25-2014 22:26:01 ReadSensor(): Fetching data from DHT11
+11-25-2014 22:26:02 ReadSensor(): Data from DHT11 read OK
+11-25-2014 22:26:02 main(): Storing data from DHT11 Sensor 1
+11-25-2014 22:26:02 main(): Reading data from DHT11 Sensor 2
+11-25-2014 22:26:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-25-2014 22:26:02 ReadSensor(): Fetching data from DHT11
+11-25-2014 22:26:03 ReadSensor(): Data from DHT11 read OK
+11-25-2014 22:26:03 main(): Storing data from DHT11 Sensor 2
+11-25-2014 22:26:03 Exit(): Raspilogger Exit() called
+11-25-2014 22:26:03 ExitLogger(): Closing debug log file
+11-25-2014 22:27:01 InitLogger(): 
+
+#### New program session ####
+
+11-25-2014 22:27:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-25-2014 22:27:01 Init(): Raspilogger Init() completed
+11-25-2014 22:27:01 main(): Raspilogger initialized
+11-25-2014 22:27:01 main(): Reading data from DHT11 Sensor 1
+11-25-2014 22:27:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-25-2014 22:27:01 ReadSensor(): Fetching data from DHT11
+11-25-2014 22:27:02 ReadSensor(): Data from DHT11 read OK
+11-25-2014 22:27:02 main(): Storing data from DHT11 Sensor 1
+11-25-2014 22:27:02 main(): Reading data from DHT11 Sensor 2
+11-25-2014 22:27:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-25-2014 22:27:02 ReadSensor(): Fetching data from DHT11
+11-25-2014 22:27:03 ReadSensor(): Data from DHT11 read OK
+11-25-2014 22:27:03 main(): Storing data from DHT11 Sensor 2
+11-25-2014 22:27:03 Exit(): Raspilogger Exit() called
+11-25-2014 22:27:03 ExitLogger(): Closing debug log file
+11-25-2014 22:30:01 InitLogger(): 
+
+#### New program session ####
+
+11-25-2014 22:30:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-25-2014 22:30:01 Init(): Raspilogger Init() completed
+11-25-2014 22:30:01 main(): Raspilogger initialized
+11-25-2014 22:30:01 main(): Reading data from DHT11 Sensor 1
+11-25-2014 22:30:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-25-2014 22:30:01 ReadSensor(): Fetching data from DHT11
+11-25-2014 22:30:02 ReadSensor(): Data from DHT11 read OK
+11-25-2014 22:30:02 main(): Storing data from DHT11 Sensor 1
+11-25-2014 22:30:02 main(): Reading data from DHT11 Sensor 2
+11-25-2014 22:30:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-25-2014 22:30:02 ReadSensor(): Fetching data from DHT11
+11-25-2014 22:30:03 ReadSensor(): Data from DHT11 read OK
+11-25-2014 22:30:03 main(): Storing data from DHT11 Sensor 2
+11-25-2014 22:30:03 Exit(): Raspilogger Exit() called
+11-25-2014 22:30:03 ExitLogger(): Closing debug log file
+11-25-2014 22:40:01 InitLogger(): 
+
+#### New program session ####
+
+11-25-2014 22:40:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-25-2014 22:40:01 Init(): Raspilogger Init() completed
+11-25-2014 22:40:01 main(): Raspilogger initialized
+11-25-2014 22:40:01 main(): Reading data from DHT11 Sensor 1
+11-25-2014 22:40:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-25-2014 22:40:01 ReadSensor(): Fetching data from DHT11
+11-25-2014 22:40:02 ReadSensor(): Data from DHT11 read OK
+11-25-2014 22:40:02 main(): Storing data from DHT11 Sensor 1
+11-25-2014 22:40:02 main(): Reading data from DHT11 Sensor 2
+11-25-2014 22:40:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-25-2014 22:40:02 ReadSensor(): Fetching data from DHT11
+11-25-2014 22:40:03 ReadSensor(): Data from DHT11 read OK
+11-25-2014 22:40:03 main(): Storing data from DHT11 Sensor 2
+11-25-2014 22:40:03 Exit(): Raspilogger Exit() called
+11-25-2014 22:40:03 ExitLogger(): Closing debug log file
+11-25-2014 22:50:01 InitLogger(): 
+
+#### New program session ####
+
+11-25-2014 22:50:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-25-2014 22:50:01 Init(): Raspilogger Init() completed
+11-25-2014 22:50:01 main(): Raspilogger initialized
+11-25-2014 22:50:01 main(): Reading data from DHT11 Sensor 1
+11-25-2014 22:50:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-25-2014 22:50:01 ReadSensor(): Fetching data from DHT11
+11-25-2014 22:50:02 ReadSensor(): Data from DHT11 read OK
+11-25-2014 22:50:02 main(): Storing data from DHT11 Sensor 1
+11-25-2014 22:50:02 main(): Reading data from DHT11 Sensor 2
+11-25-2014 22:50:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-25-2014 22:50:02 ReadSensor(): Fetching data from DHT11
+11-25-2014 22:50:03 ReadSensor(): Data from DHT11 read OK
+11-25-2014 22:50:03 main(): Storing data from DHT11 Sensor 2
+11-25-2014 22:50:03 Exit(): Raspilogger Exit() called
+11-25-2014 22:50:03 ExitLogger(): Closing debug log file
+11-25-2014 23:00:01 InitLogger(): 
+
+#### New program session ####
+
+11-25-2014 23:00:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-25-2014 23:00:01 Init(): Raspilogger Init() completed
+11-25-2014 23:00:01 main(): Raspilogger initialized
+11-25-2014 23:00:01 main(): Reading data from DHT11 Sensor 1
+11-25-2014 23:00:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-25-2014 23:00:01 ReadSensor(): Fetching data from DHT11
+11-25-2014 23:00:02 ReadSensor(): Data from DHT11 read OK
+11-25-2014 23:00:02 main(): Storing data from DHT11 Sensor 1
+11-25-2014 23:00:02 main(): Reading data from DHT11 Sensor 2
+11-25-2014 23:00:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-25-2014 23:00:02 ReadSensor(): Fetching data from DHT11
+11-25-2014 23:00:03 ReadSensor(): Data from DHT11 read OK
+11-25-2014 23:00:03 main(): Storing data from DHT11 Sensor 2
+11-25-2014 23:00:03 Exit(): Raspilogger Exit() called
+11-25-2014 23:00:03 ExitLogger(): Closing debug log file
+11-25-2014 23:10:01 InitLogger(): 
+
+#### New program session ####
+
+11-25-2014 23:10:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-25-2014 23:10:01 Init(): Raspilogger Init() completed
+11-25-2014 23:10:01 main(): Raspilogger initialized
+11-25-2014 23:10:01 main(): Reading data from DHT11 Sensor 1
+11-25-2014 23:10:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-25-2014 23:10:01 ReadSensor(): Fetching data from DHT11
+11-25-2014 23:10:02 ReadSensor(): Data from DHT11 read OK
+11-25-2014 23:10:02 main(): Storing data from DHT11 Sensor 1
+11-25-2014 23:10:02 main(): Reading data from DHT11 Sensor 2
+11-25-2014 23:10:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-25-2014 23:10:02 ReadSensor(): Fetching data from DHT11
+11-25-2014 23:10:03 ReadSensor(): Data from DHT11 read OK
+11-25-2014 23:10:03 main(): Storing data from DHT11 Sensor 2
+11-25-2014 23:10:03 Exit(): Raspilogger Exit() called
+11-25-2014 23:10:03 ExitLogger(): Closing debug log file
+11-25-2014 23:20:01 InitLogger(): 
+
+#### New program session ####
+
+11-25-2014 23:20:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-25-2014 23:20:01 Init(): Raspilogger Init() completed
+11-25-2014 23:20:01 main(): Raspilogger initialized
+11-25-2014 23:20:01 main(): Reading data from DHT11 Sensor 1
+11-25-2014 23:20:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-25-2014 23:20:01 ReadSensor(): Fetching data from DHT11
+11-25-2014 23:20:02 ReadSensor(): Data from DHT11 read OK
+11-25-2014 23:20:02 main(): Storing data from DHT11 Sensor 1
+11-25-2014 23:20:02 main(): Reading data from DHT11 Sensor 2
+11-25-2014 23:20:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-25-2014 23:20:02 ReadSensor(): Fetching data from DHT11
+11-25-2014 23:20:03 ReadSensor(): Data from DHT11 read OK
+11-25-2014 23:20:03 main(): Storing data from DHT11 Sensor 2
+11-25-2014 23:20:03 Exit(): Raspilogger Exit() called
+11-25-2014 23:20:03 ExitLogger(): Closing debug log file
+11-25-2014 23:30:01 InitLogger(): 
+
+#### New program session ####
+
+11-25-2014 23:30:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-25-2014 23:30:01 Init(): Raspilogger Init() completed
+11-25-2014 23:30:01 main(): Raspilogger initialized
+11-25-2014 23:30:01 main(): Reading data from DHT11 Sensor 1
+11-25-2014 23:30:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-25-2014 23:30:01 ReadSensor(): Fetching data from DHT11
+11-25-2014 23:30:02 ReadSensor(): Data from DHT11 read OK
+11-25-2014 23:30:02 main(): Storing data from DHT11 Sensor 1
+11-25-2014 23:30:02 main(): Reading data from DHT11 Sensor 2
+11-25-2014 23:30:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-25-2014 23:30:02 ReadSensor(): Fetching data from DHT11
+11-25-2014 23:30:03 ReadSensor(): Data from DHT11 read OK
+11-25-2014 23:30:03 main(): Storing data from DHT11 Sensor 2
+11-25-2014 23:30:03 Exit(): Raspilogger Exit() called
+11-25-2014 23:30:03 ExitLogger(): Closing debug log file
+11-25-2014 23:40:01 InitLogger(): 
+
+#### New program session ####
+
+11-25-2014 23:40:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-25-2014 23:40:01 Init(): Raspilogger Init() completed
+11-25-2014 23:40:01 main(): Raspilogger initialized
+11-25-2014 23:40:01 main(): Reading data from DHT11 Sensor 1
+11-25-2014 23:40:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-25-2014 23:40:01 ReadSensor(): Fetching data from DHT11
+11-25-2014 23:40:02 ReadSensor(): Data from DHT11 read OK
+11-25-2014 23:40:02 main(): Storing data from DHT11 Sensor 1
+11-25-2014 23:40:02 main(): Reading data from DHT11 Sensor 2
+11-25-2014 23:40:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-25-2014 23:40:02 ReadSensor(): Fetching data from DHT11
+11-25-2014 23:40:03 ReadSensor(): Data from DHT11 read OK
+11-25-2014 23:40:03 main(): Storing data from DHT11 Sensor 2
+11-25-2014 23:40:03 Exit(): Raspilogger Exit() called
+11-25-2014 23:40:03 ExitLogger(): Closing debug log file
+11-25-2014 23:50:02 InitLogger(): 
+
+#### New program session ####
+
+11-25-2014 23:50:02 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-25-2014 23:50:02 Init(): Raspilogger Init() completed
+11-25-2014 23:50:02 main(): Raspilogger initialized
+11-25-2014 23:50:02 main(): Reading data from DHT11 Sensor 1
+11-25-2014 23:50:02 ReadSensor(): Reading from DHT11 Sensor 1
+11-25-2014 23:50:02 ReadSensor(): Fetching data from DHT11
+11-25-2014 23:50:03 ReadSensor(): Data from DHT11 read OK
+11-25-2014 23:50:03 main(): Storing data from DHT11 Sensor 1
+11-25-2014 23:50:03 main(): Reading data from DHT11 Sensor 2
+11-25-2014 23:50:03 ReadSensor(): Reading from DHT11 Sensor 2
+11-25-2014 23:50:03 ReadSensor(): Fetching data from DHT11
+11-25-2014 23:50:04 ReadSensor(): Data from DHT11 read OK
+11-25-2014 23:50:04 main(): Storing data from DHT11 Sensor 2
+11-25-2014 23:50:04 Exit(): Raspilogger Exit() called
+11-25-2014 23:50:04 ExitLogger(): Closing debug log file
+11-26-2014 00:00:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 00:00:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 00:00:01 Init(): Raspilogger Init() completed
+11-26-2014 00:00:01 main(): Raspilogger initialized
+11-26-2014 00:00:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 00:00:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 00:00:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 00:00:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 00:00:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 00:00:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 00:00:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 00:00:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 00:00:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 00:00:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 00:00:03 Exit(): Raspilogger Exit() called
+11-26-2014 00:00:03 ExitLogger(): Closing debug log file
+11-26-2014 00:10:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 00:10:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 00:10:01 Init(): Raspilogger Init() completed
+11-26-2014 00:10:01 main(): Raspilogger initialized
+11-26-2014 00:10:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 00:10:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 00:10:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 00:10:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 00:10:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 00:10:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 00:10:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 00:10:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 00:10:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 00:10:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 00:10:03 Exit(): Raspilogger Exit() called
+11-26-2014 00:10:03 ExitLogger(): Closing debug log file
+11-26-2014 00:20:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 00:20:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 00:20:01 Init(): Raspilogger Init() completed
+11-26-2014 00:20:01 main(): Raspilogger initialized
+11-26-2014 00:20:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 00:20:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 00:20:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 00:20:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 00:20:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 00:20:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 00:20:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 00:20:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 00:20:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 00:20:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 00:20:03 Exit(): Raspilogger Exit() called
+11-26-2014 00:20:03 ExitLogger(): Closing debug log file
+11-26-2014 00:30:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 00:30:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 00:30:01 Init(): Raspilogger Init() completed
+11-26-2014 00:30:01 main(): Raspilogger initialized
+11-26-2014 00:30:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 00:30:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 00:30:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 00:30:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 00:30:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 00:30:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 00:30:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 00:30:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 00:30:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 00:30:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 00:30:03 Exit(): Raspilogger Exit() called
+11-26-2014 00:30:03 ExitLogger(): Closing debug log file
+11-26-2014 00:40:02 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 00:40:02 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 00:40:02 Init(): Raspilogger Init() completed
+11-26-2014 00:40:02 main(): Raspilogger initialized
+11-26-2014 00:40:02 main(): Reading data from DHT11 Sensor 1
+11-26-2014 00:40:02 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 00:40:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 00:40:02 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 00:40:03 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 00:40:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 00:40:03 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 00:40:04 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 00:40:04 ReadSensor(): Fetching data from DHT11
+11-26-2014 00:40:04 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 00:40:05 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 00:40:05 ReadSensor(): Fetching data from DHT11
+11-26-2014 00:40:06 ReadSensor(): Data from DHT11 read OK
+11-26-2014 00:40:06 main(): Storing data from DHT11 Sensor 1
+11-26-2014 00:40:06 main(): Reading data from DHT11 Sensor 2
+11-26-2014 00:40:06 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 00:40:06 ReadSensor(): Fetching data from DHT11
+11-26-2014 00:40:07 ReadSensor(): Data from DHT11 read OK
+11-26-2014 00:40:07 main(): Storing data from DHT11 Sensor 2
+11-26-2014 00:40:07 Exit(): Raspilogger Exit() called
+11-26-2014 00:40:07 ExitLogger(): Closing debug log file
+11-26-2014 00:50:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 00:50:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 00:50:01 Init(): Raspilogger Init() completed
+11-26-2014 00:50:01 main(): Raspilogger initialized
+11-26-2014 00:50:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 00:50:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 00:50:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 00:50:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 00:50:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 00:50:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 00:50:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 00:50:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 00:50:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 00:50:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 00:50:03 Exit(): Raspilogger Exit() called
+11-26-2014 00:50:03 ExitLogger(): Closing debug log file
+11-26-2014 01:00:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 01:00:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 01:00:01 Init(): Raspilogger Init() completed
+11-26-2014 01:00:01 main(): Raspilogger initialized
+11-26-2014 01:00:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 01:00:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 01:00:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 01:00:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 01:00:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 01:00:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 01:00:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 01:00:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 01:00:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 01:00:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 01:00:03 Exit(): Raspilogger Exit() called
+11-26-2014 01:00:03 ExitLogger(): Closing debug log file
+11-26-2014 01:10:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 01:10:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 01:10:01 Init(): Raspilogger Init() completed
+11-26-2014 01:10:01 main(): Raspilogger initialized
+11-26-2014 01:10:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 01:10:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 01:10:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 01:10:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 01:10:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 01:10:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 01:10:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 01:10:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 01:10:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 01:10:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 01:10:03 Exit(): Raspilogger Exit() called
+11-26-2014 01:10:03 ExitLogger(): Closing debug log file
+11-26-2014 01:20:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 01:20:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 01:20:01 Init(): Raspilogger Init() completed
+11-26-2014 01:20:01 main(): Raspilogger initialized
+11-26-2014 01:20:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 01:20:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 01:20:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 01:20:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 01:20:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 01:20:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 01:20:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 01:20:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 01:20:03 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 01:20:04 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 01:20:04 ReadSensor(): Fetching data from DHT11
+11-26-2014 01:20:05 ReadSensor(): Data from DHT11 read OK
+11-26-2014 01:20:05 main(): Storing data from DHT11 Sensor 2
+11-26-2014 01:20:05 Exit(): Raspilogger Exit() called
+11-26-2014 01:20:05 ExitLogger(): Closing debug log file
+11-26-2014 01:30:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 01:30:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 01:30:01 Init(): Raspilogger Init() completed
+11-26-2014 01:30:01 main(): Raspilogger initialized
+11-26-2014 01:30:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 01:30:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 01:30:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 01:30:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 01:30:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 01:30:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 01:30:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 01:30:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 01:30:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 01:30:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 01:30:03 Exit(): Raspilogger Exit() called
+11-26-2014 01:30:03 ExitLogger(): Closing debug log file
+11-26-2014 01:40:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 01:40:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 01:40:01 Init(): Raspilogger Init() completed
+11-26-2014 01:40:01 main(): Raspilogger initialized
+11-26-2014 01:40:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 01:40:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 01:40:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 01:40:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 01:40:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 01:40:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 01:40:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 01:40:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 01:40:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 01:40:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 01:40:03 Exit(): Raspilogger Exit() called
+11-26-2014 01:40:03 ExitLogger(): Closing debug log file
+11-26-2014 01:50:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 01:50:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 01:50:01 Init(): Raspilogger Init() completed
+11-26-2014 01:50:01 main(): Raspilogger initialized
+11-26-2014 01:50:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 01:50:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 01:50:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 01:50:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 01:50:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 01:50:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 01:50:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 01:50:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 01:50:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 01:50:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 01:50:03 Exit(): Raspilogger Exit() called
+11-26-2014 01:50:03 ExitLogger(): Closing debug log file
+11-26-2014 02:00:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 02:00:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 02:00:01 Init(): Raspilogger Init() completed
+11-26-2014 02:00:01 main(): Raspilogger initialized
+11-26-2014 02:00:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 02:00:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 02:00:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 02:00:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 02:00:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 02:00:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 02:00:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 02:00:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 02:00:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 02:00:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 02:00:03 Exit(): Raspilogger Exit() called
+11-26-2014 02:00:03 ExitLogger(): Closing debug log file
+11-26-2014 02:10:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 02:10:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 02:10:01 Init(): Raspilogger Init() completed
+11-26-2014 02:10:01 main(): Raspilogger initialized
+11-26-2014 02:10:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 02:10:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 02:10:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 02:10:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 02:10:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 02:10:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 02:10:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 02:10:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 02:10:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 02:10:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 02:10:03 Exit(): Raspilogger Exit() called
+11-26-2014 02:10:03 ExitLogger(): Closing debug log file
+11-26-2014 02:20:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 02:20:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 02:20:01 Init(): Raspilogger Init() completed
+11-26-2014 02:20:01 main(): Raspilogger initialized
+11-26-2014 02:20:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 02:20:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 02:20:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 02:20:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 02:20:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 02:20:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 02:20:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 02:20:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 02:20:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 02:20:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 02:20:03 Exit(): Raspilogger Exit() called
+11-26-2014 02:20:03 ExitLogger(): Closing debug log file
+11-26-2014 02:30:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 02:30:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 02:30:01 Init(): Raspilogger Init() completed
+11-26-2014 02:30:01 main(): Raspilogger initialized
+11-26-2014 02:30:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 02:30:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 02:30:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 02:30:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 02:30:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 02:30:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 02:30:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 02:30:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 02:30:02 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 02:30:03 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 02:30:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 02:30:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 02:30:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 02:30:04 Exit(): Raspilogger Exit() called
+11-26-2014 02:30:04 ExitLogger(): Closing debug log file
+11-26-2014 02:40:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 02:40:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 02:40:01 Init(): Raspilogger Init() completed
+11-26-2014 02:40:01 main(): Raspilogger initialized
+11-26-2014 02:40:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 02:40:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 02:40:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 02:40:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 02:40:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 02:40:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 02:40:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 02:40:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 02:40:03 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 02:40:03 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 02:40:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 02:40:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 02:40:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 02:40:04 Exit(): Raspilogger Exit() called
+11-26-2014 02:40:04 ExitLogger(): Closing debug log file
+11-26-2014 02:50:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 02:50:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 02:50:01 Init(): Raspilogger Init() completed
+11-26-2014 02:50:01 main(): Raspilogger initialized
+11-26-2014 02:50:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 02:50:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 02:50:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 02:50:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 02:50:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 02:50:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 02:50:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 02:50:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 02:50:03 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 02:50:03 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 02:50:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 02:50:04 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 02:50:04 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 02:50:04 ReadSensor(): Fetching data from DHT11
+11-26-2014 02:50:05 ReadSensor(): Data from DHT11 read OK
+11-26-2014 02:50:05 main(): Storing data from DHT11 Sensor 2
+11-26-2014 02:50:05 Exit(): Raspilogger Exit() called
+11-26-2014 02:50:05 ExitLogger(): Closing debug log file
+11-26-2014 03:00:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 03:00:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 03:00:01 Init(): Raspilogger Init() completed
+11-26-2014 03:00:01 main(): Raspilogger initialized
+11-26-2014 03:00:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 03:00:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 03:00:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 03:00:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 03:00:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 03:00:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 03:00:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 03:00:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 03:00:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 03:00:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 03:00:03 Exit(): Raspilogger Exit() called
+11-26-2014 03:00:03 ExitLogger(): Closing debug log file
+11-26-2014 03:10:02 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 03:10:02 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 03:10:02 Init(): Raspilogger Init() completed
+11-26-2014 03:10:02 main(): Raspilogger initialized
+11-26-2014 03:10:02 main(): Reading data from DHT11 Sensor 1
+11-26-2014 03:10:02 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 03:10:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 03:10:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 03:10:03 main(): Storing data from DHT11 Sensor 1
+11-26-2014 03:10:03 main(): Reading data from DHT11 Sensor 2
+11-26-2014 03:10:03 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 03:10:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 03:10:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 03:10:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 03:10:04 Exit(): Raspilogger Exit() called
+11-26-2014 03:10:04 ExitLogger(): Closing debug log file
+11-26-2014 03:20:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 03:20:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 03:20:01 Init(): Raspilogger Init() completed
+11-26-2014 03:20:01 main(): Raspilogger initialized
+11-26-2014 03:20:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 03:20:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 03:20:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 03:20:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 03:20:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 03:20:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 03:20:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 03:20:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 03:20:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 03:20:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 03:20:03 Exit(): Raspilogger Exit() called
+11-26-2014 03:20:03 ExitLogger(): Closing debug log file
+11-26-2014 03:30:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 03:30:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 03:30:01 Init(): Raspilogger Init() completed
+11-26-2014 03:30:01 main(): Raspilogger initialized
+11-26-2014 03:30:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 03:30:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 03:30:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 03:30:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 03:30:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 03:30:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 03:30:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 03:30:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 03:30:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 03:30:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 03:30:03 Exit(): Raspilogger Exit() called
+11-26-2014 03:30:03 ExitLogger(): Closing debug log file
+11-26-2014 03:40:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 03:40:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 03:40:01 Init(): Raspilogger Init() completed
+11-26-2014 03:40:01 main(): Raspilogger initialized
+11-26-2014 03:40:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 03:40:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 03:40:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 03:40:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 03:40:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 03:40:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 03:40:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 03:40:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 03:40:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 03:40:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 03:40:03 Exit(): Raspilogger Exit() called
+11-26-2014 03:40:03 ExitLogger(): Closing debug log file
+11-26-2014 03:50:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 03:50:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 03:50:01 Init(): Raspilogger Init() completed
+11-26-2014 03:50:01 main(): Raspilogger initialized
+11-26-2014 03:50:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 03:50:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 03:50:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 03:50:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 03:50:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 03:50:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 03:50:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 03:50:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 03:50:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 03:50:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 03:50:03 Exit(): Raspilogger Exit() called
+11-26-2014 03:50:03 ExitLogger(): Closing debug log file
+11-26-2014 04:00:02 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 04:00:02 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 04:00:02 Init(): Raspilogger Init() completed
+11-26-2014 04:00:02 main(): Raspilogger initialized
+11-26-2014 04:00:02 main(): Reading data from DHT11 Sensor 1
+11-26-2014 04:00:02 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 04:00:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 04:00:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 04:00:03 main(): Storing data from DHT11 Sensor 1
+11-26-2014 04:00:03 main(): Reading data from DHT11 Sensor 2
+11-26-2014 04:00:03 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 04:00:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 04:00:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 04:00:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 04:00:04 Exit(): Raspilogger Exit() called
+11-26-2014 04:00:04 ExitLogger(): Closing debug log file
+11-26-2014 04:10:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 04:10:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 04:10:01 Init(): Raspilogger Init() completed
+11-26-2014 04:10:01 main(): Raspilogger initialized
+11-26-2014 04:10:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 04:10:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 04:10:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 04:10:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 04:10:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 04:10:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 04:10:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 04:10:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 04:10:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 04:10:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 04:10:03 Exit(): Raspilogger Exit() called
+11-26-2014 04:10:03 ExitLogger(): Closing debug log file
+11-26-2014 04:20:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 04:20:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 04:20:01 Init(): Raspilogger Init() completed
+11-26-2014 04:20:01 main(): Raspilogger initialized
+11-26-2014 04:20:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 04:20:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 04:20:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 04:20:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 04:20:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 04:20:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 04:20:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 04:20:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 04:20:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 04:20:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 04:20:03 Exit(): Raspilogger Exit() called
+11-26-2014 04:20:03 ExitLogger(): Closing debug log file
+11-26-2014 04:30:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 04:30:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 04:30:01 Init(): Raspilogger Init() completed
+11-26-2014 04:30:01 main(): Raspilogger initialized
+11-26-2014 04:30:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 04:30:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 04:30:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 04:30:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 04:30:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 04:30:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 04:30:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 04:30:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 04:30:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 04:30:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 04:30:03 Exit(): Raspilogger Exit() called
+11-26-2014 04:30:03 ExitLogger(): Closing debug log file
+11-26-2014 04:40:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 04:40:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 04:40:01 Init(): Raspilogger Init() completed
+11-26-2014 04:40:01 main(): Raspilogger initialized
+11-26-2014 04:40:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 04:40:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 04:40:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 04:40:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 04:40:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 04:40:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 04:40:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 04:40:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 04:40:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 04:40:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 04:40:03 Exit(): Raspilogger Exit() called
+11-26-2014 04:40:03 ExitLogger(): Closing debug log file
+11-26-2014 04:50:02 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 04:50:02 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 04:50:02 Init(): Raspilogger Init() completed
+11-26-2014 04:50:02 main(): Raspilogger initialized
+11-26-2014 04:50:02 main(): Reading data from DHT11 Sensor 1
+11-26-2014 04:50:02 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 04:50:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 04:50:02 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 04:50:03 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 04:50:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 04:50:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 04:50:04 main(): Storing data from DHT11 Sensor 1
+11-26-2014 04:50:04 main(): Reading data from DHT11 Sensor 2
+11-26-2014 04:50:04 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 04:50:04 ReadSensor(): Fetching data from DHT11
+11-26-2014 04:50:04 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 04:50:05 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 04:50:05 ReadSensor(): Fetching data from DHT11
+11-26-2014 04:50:06 ReadSensor(): Data from DHT11 read OK
+11-26-2014 04:50:06 main(): Storing data from DHT11 Sensor 2
+11-26-2014 04:50:06 Exit(): Raspilogger Exit() called
+11-26-2014 04:50:06 ExitLogger(): Closing debug log file
+11-26-2014 05:00:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 05:00:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 05:00:01 Init(): Raspilogger Init() completed
+11-26-2014 05:00:01 main(): Raspilogger initialized
+11-26-2014 05:00:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 05:00:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 05:00:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 05:00:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 05:00:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 05:00:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 05:00:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 05:00:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 05:00:02 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 05:00:03 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 05:00:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 05:00:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 05:00:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 05:00:04 Exit(): Raspilogger Exit() called
+11-26-2014 05:00:04 ExitLogger(): Closing debug log file
+11-26-2014 05:10:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 05:10:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 05:10:01 Init(): Raspilogger Init() completed
+11-26-2014 05:10:01 main(): Raspilogger initialized
+11-26-2014 05:10:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 05:10:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 05:10:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 05:10:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 05:10:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 05:10:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 05:10:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 05:10:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 05:10:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 05:10:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 05:10:03 Exit(): Raspilogger Exit() called
+11-26-2014 05:10:03 ExitLogger(): Closing debug log file
+11-26-2014 05:20:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 05:20:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 05:20:01 Init(): Raspilogger Init() completed
+11-26-2014 05:20:01 main(): Raspilogger initialized
+11-26-2014 05:20:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 05:20:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 05:20:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 05:20:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 05:20:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 05:20:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 05:20:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 05:20:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 05:20:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 05:20:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 05:20:03 Exit(): Raspilogger Exit() called
+11-26-2014 05:20:03 ExitLogger(): Closing debug log file
+11-26-2014 05:30:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 05:30:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 05:30:01 Init(): Raspilogger Init() completed
+11-26-2014 05:30:01 main(): Raspilogger initialized
+11-26-2014 05:30:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 05:30:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 05:30:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 05:30:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 05:30:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 05:30:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 05:30:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 05:30:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 05:30:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 05:30:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 05:30:03 Exit(): Raspilogger Exit() called
+11-26-2014 05:30:03 ExitLogger(): Closing debug log file
+11-26-2014 05:40:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 05:40:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 05:40:01 Init(): Raspilogger Init() completed
+11-26-2014 05:40:01 main(): Raspilogger initialized
+11-26-2014 05:40:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 05:40:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 05:40:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 05:40:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 05:40:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 05:40:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 05:40:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 05:40:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 05:40:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 05:40:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 05:40:03 Exit(): Raspilogger Exit() called
+11-26-2014 05:40:03 ExitLogger(): Closing debug log file
+11-26-2014 05:50:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 05:50:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 05:50:01 Init(): Raspilogger Init() completed
+11-26-2014 05:50:01 main(): Raspilogger initialized
+11-26-2014 05:50:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 05:50:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 05:50:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 05:50:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 05:50:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 05:50:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 05:50:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 05:50:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 05:50:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 05:50:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 05:50:03 Exit(): Raspilogger Exit() called
+11-26-2014 05:50:03 ExitLogger(): Closing debug log file
+11-26-2014 06:00:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 06:00:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 06:00:01 Init(): Raspilogger Init() completed
+11-26-2014 06:00:01 main(): Raspilogger initialized
+11-26-2014 06:00:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 06:00:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 06:00:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 06:00:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 06:00:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 06:00:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 06:00:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 06:00:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 06:00:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 06:00:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 06:00:03 Exit(): Raspilogger Exit() called
+11-26-2014 06:00:03 ExitLogger(): Closing debug log file
+11-26-2014 06:10:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 06:10:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 06:10:01 Init(): Raspilogger Init() completed
+11-26-2014 06:10:01 main(): Raspilogger initialized
+11-26-2014 06:10:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 06:10:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 06:10:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 06:10:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 06:10:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 06:10:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 06:10:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 06:10:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 06:10:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 06:10:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 06:10:03 Exit(): Raspilogger Exit() called
+11-26-2014 06:10:03 ExitLogger(): Closing debug log file
+11-26-2014 06:20:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 06:20:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 06:20:01 Init(): Raspilogger Init() completed
+11-26-2014 06:20:01 main(): Raspilogger initialized
+11-26-2014 06:20:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 06:20:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 06:20:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 06:20:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 06:20:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 06:20:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 06:20:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 06:20:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 06:20:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 06:20:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 06:20:03 Exit(): Raspilogger Exit() called
+11-26-2014 06:20:03 ExitLogger(): Closing debug log file
+11-26-2014 06:30:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 06:30:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 06:30:01 Init(): Raspilogger Init() completed
+11-26-2014 06:30:01 main(): Raspilogger initialized
+11-26-2014 06:30:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 06:30:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 06:30:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 06:30:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 06:30:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 06:30:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 06:30:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 06:30:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 06:30:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 06:30:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 06:30:03 Exit(): Raspilogger Exit() called
+11-26-2014 06:30:03 ExitLogger(): Closing debug log file
+11-26-2014 06:40:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 06:40:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 06:40:01 Init(): Raspilogger Init() completed
+11-26-2014 06:40:01 main(): Raspilogger initialized
+11-26-2014 06:40:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 06:40:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 06:40:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 06:40:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 06:40:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 06:40:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 06:40:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 06:40:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 06:40:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 06:40:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 06:40:03 Exit(): Raspilogger Exit() called
+11-26-2014 06:40:03 ExitLogger(): Closing debug log file
+11-26-2014 06:50:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 06:50:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 06:50:01 Init(): Raspilogger Init() completed
+11-26-2014 06:50:01 main(): Raspilogger initialized
+11-26-2014 06:50:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 06:50:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 06:50:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 06:50:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 06:50:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 06:50:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 06:50:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 06:50:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 06:50:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 06:50:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 06:50:03 Exit(): Raspilogger Exit() called
+11-26-2014 06:50:03 ExitLogger(): Closing debug log file
+11-26-2014 07:00:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 07:00:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 07:00:01 Init(): Raspilogger Init() completed
+11-26-2014 07:00:01 main(): Raspilogger initialized
+11-26-2014 07:00:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 07:00:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 07:00:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 07:00:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 07:00:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 07:00:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 07:00:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 07:00:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 07:00:03 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 07:00:03 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 07:00:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 07:00:04 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 07:00:04 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 07:00:04 ReadSensor(): Fetching data from DHT11
+11-26-2014 07:00:05 ReadSensor(): Data from DHT11 read OK
+11-26-2014 07:00:05 main(): Storing data from DHT11 Sensor 2
+11-26-2014 07:00:05 Exit(): Raspilogger Exit() called
+11-26-2014 07:00:05 ExitLogger(): Closing debug log file
+11-26-2014 07:10:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 07:10:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 07:10:01 Init(): Raspilogger Init() completed
+11-26-2014 07:10:01 main(): Raspilogger initialized
+11-26-2014 07:10:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 07:10:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 07:10:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 07:10:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 07:10:03 main(): Storing data from DHT11 Sensor 1
+11-26-2014 07:10:03 main(): Reading data from DHT11 Sensor 2
+11-26-2014 07:10:03 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 07:10:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 07:10:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 07:10:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 07:10:04 Exit(): Raspilogger Exit() called
+11-26-2014 07:10:04 ExitLogger(): Closing debug log file
+11-26-2014 07:20:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 07:20:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 07:20:01 Init(): Raspilogger Init() completed
+11-26-2014 07:20:01 main(): Raspilogger initialized
+11-26-2014 07:20:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 07:20:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 07:20:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 07:20:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 07:20:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 07:20:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 07:20:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 07:20:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 07:20:02 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 07:20:03 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 07:20:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 07:20:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 07:20:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 07:20:04 Exit(): Raspilogger Exit() called
+11-26-2014 07:20:04 ExitLogger(): Closing debug log file
+11-26-2014 07:30:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 07:30:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 07:30:01 Init(): Raspilogger Init() completed
+11-26-2014 07:30:01 main(): Raspilogger initialized
+11-26-2014 07:30:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 07:30:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 07:30:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 07:30:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 07:30:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 07:30:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 07:30:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 07:30:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 07:30:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 07:30:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 07:30:03 Exit(): Raspilogger Exit() called
+11-26-2014 07:30:03 ExitLogger(): Closing debug log file
+11-26-2014 07:40:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 07:40:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 07:40:01 Init(): Raspilogger Init() completed
+11-26-2014 07:40:01 main(): Raspilogger initialized
+11-26-2014 07:40:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 07:40:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 07:40:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 07:40:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 07:40:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 07:40:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 07:40:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 07:40:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 07:40:03 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 07:40:03 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 07:40:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 07:40:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 07:40:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 07:40:04 Exit(): Raspilogger Exit() called
+11-26-2014 07:40:04 ExitLogger(): Closing debug log file
+11-26-2014 07:50:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 07:50:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 07:50:01 Init(): Raspilogger Init() completed
+11-26-2014 07:50:01 main(): Raspilogger initialized
+11-26-2014 07:50:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 07:50:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 07:50:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 07:50:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 07:50:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 07:50:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 07:50:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 07:50:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 07:50:03 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 07:50:03 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 07:50:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 07:50:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 07:50:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 07:50:04 Exit(): Raspilogger Exit() called
+11-26-2014 07:50:04 ExitLogger(): Closing debug log file
+11-26-2014 08:00:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 08:00:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 08:00:01 Init(): Raspilogger Init() completed
+11-26-2014 08:00:01 main(): Raspilogger initialized
+11-26-2014 08:00:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 08:00:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 08:00:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 08:00:02 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 08:00:02 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 08:00:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 08:00:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 08:00:03 main(): Storing data from DHT11 Sensor 1
+11-26-2014 08:00:03 main(): Reading data from DHT11 Sensor 2
+11-26-2014 08:00:03 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 08:00:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 08:00:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 08:00:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 08:00:04 Exit(): Raspilogger Exit() called
+11-26-2014 08:00:04 ExitLogger(): Closing debug log file
+11-26-2014 08:10:02 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 08:10:02 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 08:10:02 Init(): Raspilogger Init() completed
+11-26-2014 08:10:02 main(): Raspilogger initialized
+11-26-2014 08:10:02 main(): Reading data from DHT11 Sensor 1
+11-26-2014 08:10:02 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 08:10:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 08:10:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 08:10:03 main(): Storing data from DHT11 Sensor 1
+11-26-2014 08:10:03 main(): Reading data from DHT11 Sensor 2
+11-26-2014 08:10:03 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 08:10:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 08:10:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 08:10:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 08:10:04 Exit(): Raspilogger Exit() called
+11-26-2014 08:10:04 ExitLogger(): Closing debug log file
+11-26-2014 08:20:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 08:20:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 08:20:01 Init(): Raspilogger Init() completed
+11-26-2014 08:20:01 main(): Raspilogger initialized
+11-26-2014 08:20:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 08:20:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 08:20:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 08:20:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 08:20:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 08:20:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 08:20:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 08:20:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 08:20:02 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 08:20:03 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 08:20:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 08:20:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 08:20:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 08:20:04 Exit(): Raspilogger Exit() called
+11-26-2014 08:20:04 ExitLogger(): Closing debug log file
+11-26-2014 08:30:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 08:30:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 08:30:01 Init(): Raspilogger Init() completed
+11-26-2014 08:30:01 main(): Raspilogger initialized
+11-26-2014 08:30:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 08:30:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 08:30:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 08:30:01 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 08:30:02 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 08:30:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 08:30:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 08:30:03 main(): Storing data from DHT11 Sensor 1
+11-26-2014 08:30:03 main(): Reading data from DHT11 Sensor 2
+11-26-2014 08:30:03 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 08:30:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 08:30:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 08:30:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 08:30:04 Exit(): Raspilogger Exit() called
+11-26-2014 08:30:04 ExitLogger(): Closing debug log file
+11-26-2014 08:40:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 08:40:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 08:40:01 Init(): Raspilogger Init() completed
+11-26-2014 08:40:01 main(): Raspilogger initialized
+11-26-2014 08:40:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 08:40:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 08:40:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 08:40:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 08:40:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 08:40:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 08:40:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 08:40:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 08:40:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 08:40:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 08:40:03 Exit(): Raspilogger Exit() called
+11-26-2014 08:40:03 ExitLogger(): Closing debug log file
+11-26-2014 08:50:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 08:50:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 08:50:01 Init(): Raspilogger Init() completed
+11-26-2014 08:50:01 main(): Raspilogger initialized
+11-26-2014 08:50:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 08:50:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 08:50:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 08:50:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 08:50:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 08:50:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 08:50:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 08:50:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 08:50:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 08:50:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 08:50:03 Exit(): Raspilogger Exit() called
+11-26-2014 08:50:03 ExitLogger(): Closing debug log file
+11-26-2014 09:00:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 09:00:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 09:00:01 Init(): Raspilogger Init() completed
+11-26-2014 09:00:01 main(): Raspilogger initialized
+11-26-2014 09:00:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 09:00:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 09:00:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 09:00:02 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 09:00:02 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 09:00:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 09:00:03 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 09:00:04 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 09:00:04 ReadSensor(): Fetching data from DHT11
+11-26-2014 09:00:04 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 09:00:05 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 09:00:05 ReadSensor(): Fetching data from DHT11
+11-26-2014 09:00:05 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 09:00:06 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 09:00:06 ReadSensor(): Fetching data from DHT11
+11-26-2014 09:00:07 ReadSensor(): Data from DHT11 read OK
+11-26-2014 09:00:07 main(): Storing data from DHT11 Sensor 1
+11-26-2014 09:00:07 main(): Reading data from DHT11 Sensor 2
+11-26-2014 09:00:07 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 09:00:07 ReadSensor(): Fetching data from DHT11
+11-26-2014 09:00:07 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 09:00:08 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 09:00:08 ReadSensor(): Fetching data from DHT11
+11-26-2014 09:00:09 ReadSensor(): Data from DHT11 read OK
+11-26-2014 09:00:09 main(): Storing data from DHT11 Sensor 2
+11-26-2014 09:00:09 Exit(): Raspilogger Exit() called
+11-26-2014 09:00:09 ExitLogger(): Closing debug log file
+11-26-2014 09:10:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 09:10:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 09:10:01 Init(): Raspilogger Init() completed
+11-26-2014 09:10:01 main(): Raspilogger initialized
+11-26-2014 09:10:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 09:10:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 09:10:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 09:10:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 09:10:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 09:10:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 09:10:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 09:10:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 09:10:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 09:10:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 09:10:03 Exit(): Raspilogger Exit() called
+11-26-2014 09:10:03 ExitLogger(): Closing debug log file
+11-26-2014 09:20:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 09:20:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 09:20:01 Init(): Raspilogger Init() completed
+11-26-2014 09:20:01 main(): Raspilogger initialized
+11-26-2014 09:20:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 09:20:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 09:20:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 09:20:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 09:20:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 09:20:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 09:20:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 09:20:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 09:20:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 09:20:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 09:20:03 Exit(): Raspilogger Exit() called
+11-26-2014 09:20:03 ExitLogger(): Closing debug log file
+11-26-2014 09:30:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 09:30:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 09:30:01 Init(): Raspilogger Init() completed
+11-26-2014 09:30:01 main(): Raspilogger initialized
+11-26-2014 09:30:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 09:30:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 09:30:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 09:30:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 09:30:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 09:30:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 09:30:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 09:30:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 09:30:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 09:30:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 09:30:03 Exit(): Raspilogger Exit() called
+11-26-2014 09:30:03 ExitLogger(): Closing debug log file
+11-26-2014 09:40:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 09:40:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 09:40:01 Init(): Raspilogger Init() completed
+11-26-2014 09:40:01 main(): Raspilogger initialized
+11-26-2014 09:40:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 09:40:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 09:40:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 09:40:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 09:40:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 09:40:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 09:40:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 09:40:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 09:40:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 09:40:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 09:40:03 Exit(): Raspilogger Exit() called
+11-26-2014 09:40:03 ExitLogger(): Closing debug log file
+11-26-2014 09:50:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 09:50:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 09:50:01 Init(): Raspilogger Init() completed
+11-26-2014 09:50:01 main(): Raspilogger initialized
+11-26-2014 09:50:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 09:50:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 09:50:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 09:50:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 09:50:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 09:50:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 09:50:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 09:50:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 09:50:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 09:50:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 09:50:03 Exit(): Raspilogger Exit() called
+11-26-2014 09:50:03 ExitLogger(): Closing debug log file
+11-26-2014 10:00:02 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 10:00:02 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 10:00:02 Init(): Raspilogger Init() completed
+11-26-2014 10:00:02 main(): Raspilogger initialized
+11-26-2014 10:00:02 main(): Reading data from DHT11 Sensor 1
+11-26-2014 10:00:02 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 10:00:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 10:00:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 10:00:03 main(): Storing data from DHT11 Sensor 1
+11-26-2014 10:00:03 main(): Reading data from DHT11 Sensor 2
+11-26-2014 10:00:03 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 10:00:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 10:00:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 10:00:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 10:00:04 Exit(): Raspilogger Exit() called
+11-26-2014 10:00:04 ExitLogger(): Closing debug log file
+11-26-2014 10:10:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 10:10:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 10:10:01 Init(): Raspilogger Init() completed
+11-26-2014 10:10:01 main(): Raspilogger initialized
+11-26-2014 10:10:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 10:10:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 10:10:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 10:10:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 10:10:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 10:10:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 10:10:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 10:10:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 10:10:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 10:10:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 10:10:03 Exit(): Raspilogger Exit() called
+11-26-2014 10:10:03 ExitLogger(): Closing debug log file
+11-26-2014 10:20:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 10:20:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 10:20:01 Init(): Raspilogger Init() completed
+11-26-2014 10:20:01 main(): Raspilogger initialized
+11-26-2014 10:20:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 10:20:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 10:20:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 10:20:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 10:20:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 10:20:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 10:20:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 10:20:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 10:20:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 10:20:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 10:20:03 Exit(): Raspilogger Exit() called
+11-26-2014 10:20:03 ExitLogger(): Closing debug log file
+11-26-2014 10:30:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 10:30:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 10:30:01 Init(): Raspilogger Init() completed
+11-26-2014 10:30:01 main(): Raspilogger initialized
+11-26-2014 10:30:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 10:30:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 10:30:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 10:30:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 10:30:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 10:30:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 10:30:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 10:30:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 10:30:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 10:30:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 10:30:03 Exit(): Raspilogger Exit() called
+11-26-2014 10:30:03 ExitLogger(): Closing debug log file
+11-26-2014 10:40:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 10:40:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 10:40:01 Init(): Raspilogger Init() completed
+11-26-2014 10:40:01 main(): Raspilogger initialized
+11-26-2014 10:40:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 10:40:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 10:40:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 10:40:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 10:40:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 10:40:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 10:40:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 10:40:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 10:40:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 10:40:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 10:40:03 Exit(): Raspilogger Exit() called
+11-26-2014 10:40:03 ExitLogger(): Closing debug log file
+11-26-2014 10:50:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 10:50:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 10:50:01 Init(): Raspilogger Init() completed
+11-26-2014 10:50:01 main(): Raspilogger initialized
+11-26-2014 10:50:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 10:50:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 10:50:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 10:50:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 10:50:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 10:50:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 10:50:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 10:50:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 10:50:03 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 10:50:03 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 10:50:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 10:50:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 10:50:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 10:50:04 Exit(): Raspilogger Exit() called
+11-26-2014 10:50:04 ExitLogger(): Closing debug log file
+11-26-2014 11:00:02 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 11:00:02 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 11:00:02 Init(): Raspilogger Init() completed
+11-26-2014 11:00:02 main(): Raspilogger initialized
+11-26-2014 11:00:02 main(): Reading data from DHT11 Sensor 1
+11-26-2014 11:00:02 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 11:00:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 11:00:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 11:00:03 main(): Storing data from DHT11 Sensor 1
+11-26-2014 11:00:03 main(): Reading data from DHT11 Sensor 2
+11-26-2014 11:00:03 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 11:00:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 11:00:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 11:00:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 11:00:04 Exit(): Raspilogger Exit() called
+11-26-2014 11:00:04 ExitLogger(): Closing debug log file
+11-26-2014 11:10:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 11:10:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 11:10:01 Init(): Raspilogger Init() completed
+11-26-2014 11:10:01 main(): Raspilogger initialized
+11-26-2014 11:10:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 11:10:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 11:10:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 11:10:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 11:10:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 11:10:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 11:10:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 11:10:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 11:10:02 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 11:10:03 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 11:10:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 11:10:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 11:10:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 11:10:04 Exit(): Raspilogger Exit() called
+11-26-2014 11:10:04 ExitLogger(): Closing debug log file
+11-26-2014 11:20:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 11:20:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 11:20:01 Init(): Raspilogger Init() completed
+11-26-2014 11:20:01 main(): Raspilogger initialized
+11-26-2014 11:20:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 11:20:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 11:20:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 11:20:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 11:20:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 11:20:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 11:20:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 11:20:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 11:20:03 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 11:20:03 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 11:20:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 11:20:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 11:20:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 11:20:04 Exit(): Raspilogger Exit() called
+11-26-2014 11:20:04 ExitLogger(): Closing debug log file
+11-26-2014 11:30:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 11:30:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 11:30:01 Init(): Raspilogger Init() completed
+11-26-2014 11:30:01 main(): Raspilogger initialized
+11-26-2014 11:30:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 11:30:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 11:30:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 11:30:02 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 11:30:02 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 11:30:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 11:30:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 11:30:03 main(): Storing data from DHT11 Sensor 1
+11-26-2014 11:30:03 main(): Reading data from DHT11 Sensor 2
+11-26-2014 11:30:03 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 11:30:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 11:30:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 11:30:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 11:30:04 Exit(): Raspilogger Exit() called
+11-26-2014 11:30:04 ExitLogger(): Closing debug log file
+11-26-2014 11:40:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 11:40:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 11:40:01 Init(): Raspilogger Init() completed
+11-26-2014 11:40:01 main(): Raspilogger initialized
+11-26-2014 11:40:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 11:40:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 11:40:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 11:40:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 11:40:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 11:40:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 11:40:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 11:40:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 11:40:03 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 11:40:03 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 11:40:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 11:40:04 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 11:40:04 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 11:40:04 ReadSensor(): Fetching data from DHT11
+11-26-2014 11:40:05 ReadSensor(): Data from DHT11 read OK
+11-26-2014 11:40:05 main(): Storing data from DHT11 Sensor 2
+11-26-2014 11:40:05 Exit(): Raspilogger Exit() called
+11-26-2014 11:40:05 ExitLogger(): Closing debug log file
+11-26-2014 11:50:02 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 11:50:02 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 11:50:02 Init(): Raspilogger Init() completed
+11-26-2014 11:50:02 main(): Raspilogger initialized
+11-26-2014 11:50:02 main(): Reading data from DHT11 Sensor 1
+11-26-2014 11:50:02 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 11:50:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 11:50:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 11:50:03 main(): Storing data from DHT11 Sensor 1
+11-26-2014 11:50:03 main(): Reading data from DHT11 Sensor 2
+11-26-2014 11:50:03 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 11:50:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 11:50:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 11:50:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 11:50:04 Exit(): Raspilogger Exit() called
+11-26-2014 11:50:04 ExitLogger(): Closing debug log file
+11-26-2014 12:00:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 12:00:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 12:00:01 Init(): Raspilogger Init() completed
+11-26-2014 12:00:01 main(): Raspilogger initialized
+11-26-2014 12:00:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 12:00:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 12:00:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 12:00:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 12:00:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 12:00:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 12:00:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 12:00:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 12:00:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 12:00:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 12:00:03 Exit(): Raspilogger Exit() called
+11-26-2014 12:00:03 ExitLogger(): Closing debug log file
+11-26-2014 12:10:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 12:10:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 12:10:01 Init(): Raspilogger Init() completed
+11-26-2014 12:10:01 main(): Raspilogger initialized
+11-26-2014 12:10:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 12:10:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 12:10:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 12:10:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 12:10:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 12:10:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 12:10:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 12:10:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 12:10:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 12:10:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 12:10:03 Exit(): Raspilogger Exit() called
+11-26-2014 12:10:03 ExitLogger(): Closing debug log file
+11-26-2014 12:20:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 12:20:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 12:20:01 Init(): Raspilogger Init() completed
+11-26-2014 12:20:01 main(): Raspilogger initialized
+11-26-2014 12:20:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 12:20:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 12:20:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 12:20:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 12:20:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 12:20:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 12:20:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 12:20:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 12:20:03 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 12:20:03 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 12:20:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 12:20:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 12:20:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 12:20:04 Exit(): Raspilogger Exit() called
+11-26-2014 12:20:04 ExitLogger(): Closing debug log file
+11-26-2014 12:30:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 12:30:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 12:30:01 Init(): Raspilogger Init() completed
+11-26-2014 12:30:01 main(): Raspilogger initialized
+11-26-2014 12:30:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 12:30:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 12:30:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 12:30:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 12:30:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 12:30:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 12:30:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 12:30:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 12:30:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 12:30:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 12:30:03 Exit(): Raspilogger Exit() called
+11-26-2014 12:30:03 ExitLogger(): Closing debug log file
+11-26-2014 12:40:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 12:40:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 12:40:01 Init(): Raspilogger Init() completed
+11-26-2014 12:40:01 main(): Raspilogger initialized
+11-26-2014 12:40:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 12:40:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 12:40:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 12:40:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 12:40:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 12:40:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 12:40:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 12:40:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 12:40:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 12:40:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 12:40:03 Exit(): Raspilogger Exit() called
+11-26-2014 12:40:03 ExitLogger(): Closing debug log file
+11-26-2014 12:50:02 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 12:50:02 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 12:50:02 Init(): Raspilogger Init() completed
+11-26-2014 12:50:02 main(): Raspilogger initialized
+11-26-2014 12:50:02 main(): Reading data from DHT11 Sensor 1
+11-26-2014 12:50:02 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 12:50:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 12:50:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 12:50:03 main(): Storing data from DHT11 Sensor 1
+11-26-2014 12:50:03 main(): Reading data from DHT11 Sensor 2
+11-26-2014 12:50:03 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 12:50:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 12:50:03 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 12:50:04 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 12:50:04 ReadSensor(): Fetching data from DHT11
+11-26-2014 12:50:05 ReadSensor(): Data from DHT11 read OK
+11-26-2014 12:50:05 main(): Storing data from DHT11 Sensor 2
+11-26-2014 12:50:05 Exit(): Raspilogger Exit() called
+11-26-2014 12:50:05 ExitLogger(): Closing debug log file
+11-26-2014 13:00:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 13:00:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 13:00:01 Init(): Raspilogger Init() completed
+11-26-2014 13:00:01 main(): Raspilogger initialized
+11-26-2014 13:00:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 13:00:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 13:00:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 13:00:01 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 13:00:02 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 13:00:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 13:00:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 13:00:03 main(): Storing data from DHT11 Sensor 1
+11-26-2014 13:00:03 main(): Reading data from DHT11 Sensor 2
+11-26-2014 13:00:03 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 13:00:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 13:00:03 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 13:00:04 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 13:00:04 ReadSensor(): Fetching data from DHT11
+11-26-2014 13:00:05 ReadSensor(): Data from DHT11 read OK
+11-26-2014 13:00:05 main(): Storing data from DHT11 Sensor 2
+11-26-2014 13:00:05 Exit(): Raspilogger Exit() called
+11-26-2014 13:00:05 ExitLogger(): Closing debug log file
+11-26-2014 13:10:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 13:10:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 13:10:01 Init(): Raspilogger Init() completed
+11-26-2014 13:10:01 main(): Raspilogger initialized
+11-26-2014 13:10:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 13:10:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 13:10:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 13:10:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 13:10:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 13:10:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 13:10:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 13:10:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 13:10:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 13:10:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 13:10:03 Exit(): Raspilogger Exit() called
+11-26-2014 13:10:03 ExitLogger(): Closing debug log file
+11-26-2014 13:20:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 13:20:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 13:20:01 Init(): Raspilogger Init() completed
+11-26-2014 13:20:01 main(): Raspilogger initialized
+11-26-2014 13:20:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 13:20:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 13:20:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 13:20:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 13:20:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 13:20:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 13:20:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 13:20:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 13:20:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 13:20:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 13:20:03 Exit(): Raspilogger Exit() called
+11-26-2014 13:20:03 ExitLogger(): Closing debug log file
+11-26-2014 13:30:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 13:30:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 13:30:01 Init(): Raspilogger Init() completed
+11-26-2014 13:30:01 main(): Raspilogger initialized
+11-26-2014 13:30:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 13:30:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 13:30:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 13:30:02 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 13:30:02 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 13:30:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 13:30:03 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 13:30:03 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 13:30:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 13:30:04 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 13:30:04 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 13:30:04 ReadSensor(): Fetching data from DHT11
+11-26-2014 13:30:05 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 13:30:05 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 13:30:05 ReadSensor(): Fetching data from DHT11
+11-26-2014 13:30:06 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 13:30:06 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 13:30:06 ReadSensor(): Fetching data from DHT11
+11-26-2014 13:30:07 ReadSensor(): Data from DHT11 read OK
+11-26-2014 13:30:07 main(): Storing data from DHT11 Sensor 1
+11-26-2014 13:30:07 main(): Reading data from DHT11 Sensor 2
+11-26-2014 13:30:07 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 13:30:07 ReadSensor(): Fetching data from DHT11
+11-26-2014 13:30:08 ReadSensor(): Data from DHT11 read OK
+11-26-2014 13:30:08 main(): Storing data from DHT11 Sensor 2
+11-26-2014 13:30:08 Exit(): Raspilogger Exit() called
+11-26-2014 13:30:08 ExitLogger(): Closing debug log file
+11-26-2014 13:40:02 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 13:40:02 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 13:40:02 Init(): Raspilogger Init() completed
+11-26-2014 13:40:02 main(): Raspilogger initialized
+11-26-2014 13:40:02 main(): Reading data from DHT11 Sensor 1
+11-26-2014 13:40:02 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 13:40:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 13:40:02 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 13:40:03 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 13:40:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 13:40:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 13:40:04 main(): Storing data from DHT11 Sensor 1
+11-26-2014 13:40:04 main(): Reading data from DHT11 Sensor 2
+11-26-2014 13:40:04 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 13:40:04 ReadSensor(): Fetching data from DHT11
+11-26-2014 13:40:05 ReadSensor(): Data from DHT11 read OK
+11-26-2014 13:40:05 main(): Storing data from DHT11 Sensor 2
+11-26-2014 13:40:05 Exit(): Raspilogger Exit() called
+11-26-2014 13:40:05 ExitLogger(): Closing debug log file
+11-26-2014 13:50:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 13:50:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 13:50:01 Init(): Raspilogger Init() completed
+11-26-2014 13:50:01 main(): Raspilogger initialized
+11-26-2014 13:50:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 13:50:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 13:50:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 13:50:01 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 13:50:02 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 13:50:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 13:50:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 13:50:03 main(): Storing data from DHT11 Sensor 1
+11-26-2014 13:50:03 main(): Reading data from DHT11 Sensor 2
+11-26-2014 13:50:03 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 13:50:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 13:50:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 13:50:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 13:50:04 Exit(): Raspilogger Exit() called
+11-26-2014 13:50:04 ExitLogger(): Closing debug log file
+11-26-2014 14:00:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 14:00:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 14:00:01 Init(): Raspilogger Init() completed
+11-26-2014 14:00:01 main(): Raspilogger initialized
+11-26-2014 14:00:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 14:00:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 14:00:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 14:00:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 14:00:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 14:00:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 14:00:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 14:00:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 14:00:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 14:00:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 14:00:03 Exit(): Raspilogger Exit() called
+11-26-2014 14:00:03 ExitLogger(): Closing debug log file
+11-26-2014 14:10:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 14:10:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 14:10:01 Init(): Raspilogger Init() completed
+11-26-2014 14:10:01 main(): Raspilogger initialized
+11-26-2014 14:10:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 14:10:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 14:10:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 14:10:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 14:10:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 14:10:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 14:10:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 14:10:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 14:10:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 14:10:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 14:10:03 Exit(): Raspilogger Exit() called
+11-26-2014 14:10:03 ExitLogger(): Closing debug log file
+11-26-2014 14:20:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 14:20:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 14:20:01 Init(): Raspilogger Init() completed
+11-26-2014 14:20:01 main(): Raspilogger initialized
+11-26-2014 14:20:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 14:20:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 14:20:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 14:20:02 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 14:20:02 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 14:20:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 14:20:03 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 14:20:03 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 14:20:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 14:20:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 14:20:04 main(): Storing data from DHT11 Sensor 1
+11-26-2014 14:20:04 main(): Reading data from DHT11 Sensor 2
+11-26-2014 14:20:04 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 14:20:04 ReadSensor(): Fetching data from DHT11
+11-26-2014 14:20:05 ReadSensor(): Data from DHT11 read OK
+11-26-2014 14:20:05 main(): Storing data from DHT11 Sensor 2
+11-26-2014 14:20:05 Exit(): Raspilogger Exit() called
+11-26-2014 14:20:05 ExitLogger(): Closing debug log file
+11-26-2014 14:30:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 14:30:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 14:30:01 Init(): Raspilogger Init() completed
+11-26-2014 14:30:01 main(): Raspilogger initialized
+11-26-2014 14:30:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 14:30:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 14:30:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 14:30:02 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 14:30:03 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 14:30:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 14:30:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 14:30:04 main(): Storing data from DHT11 Sensor 1
+11-26-2014 14:30:04 main(): Reading data from DHT11 Sensor 2
+11-26-2014 14:30:04 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 14:30:04 ReadSensor(): Fetching data from DHT11
+11-26-2014 14:30:04 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 14:30:05 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 14:30:05 ReadSensor(): Fetching data from DHT11
+11-26-2014 14:30:06 ReadSensor(): Data from DHT11 read OK
+11-26-2014 14:30:06 main(): Storing data from DHT11 Sensor 2
+11-26-2014 14:30:06 Exit(): Raspilogger Exit() called
+11-26-2014 14:30:06 ExitLogger(): Closing debug log file
+11-26-2014 14:40:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 14:40:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 14:40:01 Init(): Raspilogger Init() completed
+11-26-2014 14:40:01 main(): Raspilogger initialized
+11-26-2014 14:40:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 14:40:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 14:40:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 14:40:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 14:40:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 14:40:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 14:40:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 14:40:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 14:40:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 14:40:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 14:40:03 Exit(): Raspilogger Exit() called
+11-26-2014 14:40:03 ExitLogger(): Closing debug log file
+11-26-2014 14:50:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 14:50:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 14:50:01 Init(): Raspilogger Init() completed
+11-26-2014 14:50:01 main(): Raspilogger initialized
+11-26-2014 14:50:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 14:50:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 14:50:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 14:50:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 14:50:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 14:50:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 14:50:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 14:50:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 14:50:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 14:50:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 14:50:03 Exit(): Raspilogger Exit() called
+11-26-2014 14:50:03 ExitLogger(): Closing debug log file
+11-26-2014 15:00:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 15:00:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 15:00:01 Init(): Raspilogger Init() completed
+11-26-2014 15:00:01 main(): Raspilogger initialized
+11-26-2014 15:00:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 15:00:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 15:00:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 15:00:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 15:00:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 15:00:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 15:00:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 15:00:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 15:00:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 15:00:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 15:00:03 Exit(): Raspilogger Exit() called
+11-26-2014 15:00:03 ExitLogger(): Closing debug log file
+11-26-2014 15:10:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 15:10:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 15:10:01 Init(): Raspilogger Init() completed
+11-26-2014 15:10:01 main(): Raspilogger initialized
+11-26-2014 15:10:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 15:10:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 15:10:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 15:10:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 15:10:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 15:10:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 15:10:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 15:10:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 15:10:03 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 15:10:03 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 15:10:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 15:10:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 15:10:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 15:10:04 Exit(): Raspilogger Exit() called
+11-26-2014 15:10:04 ExitLogger(): Closing debug log file
+11-26-2014 15:20:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 15:20:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 15:20:01 Init(): Raspilogger Init() completed
+11-26-2014 15:20:01 main(): Raspilogger initialized
+11-26-2014 15:20:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 15:20:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 15:20:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 15:20:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 15:20:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 15:20:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 15:20:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 15:20:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 15:20:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 15:20:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 15:20:03 Exit(): Raspilogger Exit() called
+11-26-2014 15:20:03 ExitLogger(): Closing debug log file
+11-26-2014 15:30:02 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 15:30:02 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 15:30:02 Init(): Raspilogger Init() completed
+11-26-2014 15:30:02 main(): Raspilogger initialized
+11-26-2014 15:30:02 main(): Reading data from DHT11 Sensor 1
+11-26-2014 15:30:02 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 15:30:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 15:30:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 15:30:03 main(): Storing data from DHT11 Sensor 1
+11-26-2014 15:30:03 main(): Reading data from DHT11 Sensor 2
+11-26-2014 15:30:03 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 15:30:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 15:30:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 15:30:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 15:30:04 Exit(): Raspilogger Exit() called
+11-26-2014 15:30:04 ExitLogger(): Closing debug log file
+11-26-2014 15:40:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 15:40:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 15:40:01 Init(): Raspilogger Init() completed
+11-26-2014 15:40:01 main(): Raspilogger initialized
+11-26-2014 15:40:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 15:40:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 15:40:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 15:40:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 15:40:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 15:40:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 15:40:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 15:40:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 15:40:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 15:40:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 15:40:03 Exit(): Raspilogger Exit() called
+11-26-2014 15:40:03 ExitLogger(): Closing debug log file
+11-26-2014 15:50:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 15:50:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 15:50:01 Init(): Raspilogger Init() completed
+11-26-2014 15:50:01 main(): Raspilogger initialized
+11-26-2014 15:50:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 15:50:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 15:50:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 15:50:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 15:50:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 15:50:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 15:50:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 15:50:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 15:50:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 15:50:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 15:50:03 Exit(): Raspilogger Exit() called
+11-26-2014 15:50:03 ExitLogger(): Closing debug log file
+11-26-2014 16:00:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 16:00:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 16:00:01 Init(): Raspilogger Init() completed
+11-26-2014 16:00:01 main(): Raspilogger initialized
+11-26-2014 16:00:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 16:00:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 16:00:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 16:00:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 16:00:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 16:00:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 16:00:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 16:00:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 16:00:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 16:00:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 16:00:03 Exit(): Raspilogger Exit() called
+11-26-2014 16:00:03 ExitLogger(): Closing debug log file
+11-26-2014 16:10:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 16:10:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 16:10:01 Init(): Raspilogger Init() completed
+11-26-2014 16:10:01 main(): Raspilogger initialized
+11-26-2014 16:10:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 16:10:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 16:10:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 16:10:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 16:10:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 16:10:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 16:10:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 16:10:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 16:10:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 16:10:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 16:10:03 Exit(): Raspilogger Exit() called
+11-26-2014 16:10:03 ExitLogger(): Closing debug log file
+11-26-2014 16:20:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 16:20:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 16:20:01 Init(): Raspilogger Init() completed
+11-26-2014 16:20:01 main(): Raspilogger initialized
+11-26-2014 16:20:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 16:20:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 16:20:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 16:20:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 16:20:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 16:20:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 16:20:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 16:20:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 16:20:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 16:20:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 16:20:03 Exit(): Raspilogger Exit() called
+11-26-2014 16:20:03 ExitLogger(): Closing debug log file
+11-26-2014 16:30:02 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 16:30:02 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 16:30:02 Init(): Raspilogger Init() completed
+11-26-2014 16:30:02 main(): Raspilogger initialized
+11-26-2014 16:30:02 main(): Reading data from DHT11 Sensor 1
+11-26-2014 16:30:02 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 16:30:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 16:30:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 16:30:03 main(): Storing data from DHT11 Sensor 1
+11-26-2014 16:30:03 main(): Reading data from DHT11 Sensor 2
+11-26-2014 16:30:03 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 16:30:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 16:30:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 16:30:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 16:30:04 Exit(): Raspilogger Exit() called
+11-26-2014 16:30:04 ExitLogger(): Closing debug log file
+11-26-2014 16:40:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 16:40:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 16:40:01 Init(): Raspilogger Init() completed
+11-26-2014 16:40:01 main(): Raspilogger initialized
+11-26-2014 16:40:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 16:40:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 16:40:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 16:40:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 16:40:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 16:40:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 16:40:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 16:40:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 16:40:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 16:40:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 16:40:03 Exit(): Raspilogger Exit() called
+11-26-2014 16:40:03 ExitLogger(): Closing debug log file
+11-26-2014 16:50:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 16:50:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 16:50:01 Init(): Raspilogger Init() completed
+11-26-2014 16:50:01 main(): Raspilogger initialized
+11-26-2014 16:50:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 16:50:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 16:50:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 16:50:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 16:50:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 16:50:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 16:50:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 16:50:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 16:50:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 16:50:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 16:50:03 Exit(): Raspilogger Exit() called
+11-26-2014 16:50:03 ExitLogger(): Closing debug log file
+11-26-2014 17:00:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 17:00:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 17:00:01 Init(): Raspilogger Init() completed
+11-26-2014 17:00:01 main(): Raspilogger initialized
+11-26-2014 17:00:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 17:00:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 17:00:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 17:00:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 17:00:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 17:00:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 17:00:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 17:00:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 17:00:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 17:00:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 17:00:03 Exit(): Raspilogger Exit() called
+11-26-2014 17:00:03 ExitLogger(): Closing debug log file
+11-26-2014 17:10:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 17:10:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 17:10:01 Init(): Raspilogger Init() completed
+11-26-2014 17:10:01 main(): Raspilogger initialized
+11-26-2014 17:10:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 17:10:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 17:10:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 17:10:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 17:10:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 17:10:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 17:10:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 17:10:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 17:10:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 17:10:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 17:10:03 Exit(): Raspilogger Exit() called
+11-26-2014 17:10:03 ExitLogger(): Closing debug log file
+11-26-2014 17:20:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 17:20:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 17:20:01 Init(): Raspilogger Init() completed
+11-26-2014 17:20:01 main(): Raspilogger initialized
+11-26-2014 17:20:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 17:20:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 17:20:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 17:20:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 17:20:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 17:20:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 17:20:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 17:20:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 17:20:03 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 17:20:03 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 17:20:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 17:20:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 17:20:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 17:20:04 Exit(): Raspilogger Exit() called
+11-26-2014 17:20:04 ExitLogger(): Closing debug log file
+11-26-2014 17:30:02 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 17:30:02 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 17:30:02 Init(): Raspilogger Init() completed
+11-26-2014 17:30:02 main(): Raspilogger initialized
+11-26-2014 17:30:02 main(): Reading data from DHT11 Sensor 1
+11-26-2014 17:30:02 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 17:30:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 17:30:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 17:30:03 main(): Storing data from DHT11 Sensor 1
+11-26-2014 17:30:03 main(): Reading data from DHT11 Sensor 2
+11-26-2014 17:30:03 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 17:30:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 17:30:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 17:30:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 17:30:04 Exit(): Raspilogger Exit() called
+11-26-2014 17:30:04 ExitLogger(): Closing debug log file
+11-26-2014 17:40:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 17:40:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 17:40:01 Init(): Raspilogger Init() completed
+11-26-2014 17:40:01 main(): Raspilogger initialized
+11-26-2014 17:40:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 17:40:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 17:40:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 17:40:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 17:40:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 17:40:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 17:40:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 17:40:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 17:40:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 17:40:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 17:40:03 Exit(): Raspilogger Exit() called
+11-26-2014 17:40:03 ExitLogger(): Closing debug log file
+11-26-2014 17:50:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 17:50:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 17:50:01 Init(): Raspilogger Init() completed
+11-26-2014 17:50:01 main(): Raspilogger initialized
+11-26-2014 17:50:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 17:50:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 17:50:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 17:50:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 17:50:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 17:50:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 17:50:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 17:50:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 17:50:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 17:50:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 17:50:03 Exit(): Raspilogger Exit() called
+11-26-2014 17:50:03 ExitLogger(): Closing debug log file
+11-26-2014 18:00:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 18:00:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 18:00:01 Init(): Raspilogger Init() completed
+11-26-2014 18:00:01 main(): Raspilogger initialized
+11-26-2014 18:00:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 18:00:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 18:00:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 18:00:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 18:00:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 18:00:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 18:00:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 18:00:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 18:00:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 18:00:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 18:00:03 Exit(): Raspilogger Exit() called
+11-26-2014 18:00:03 ExitLogger(): Closing debug log file
+11-26-2014 18:10:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 18:10:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 18:10:01 Init(): Raspilogger Init() completed
+11-26-2014 18:10:01 main(): Raspilogger initialized
+11-26-2014 18:10:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 18:10:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 18:10:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 18:10:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 18:10:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 18:10:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 18:10:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 18:10:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 18:10:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 18:10:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 18:10:03 Exit(): Raspilogger Exit() called
+11-26-2014 18:10:03 ExitLogger(): Closing debug log file
+11-26-2014 18:20:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 18:20:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 18:20:01 Init(): Raspilogger Init() completed
+11-26-2014 18:20:01 main(): Raspilogger initialized
+11-26-2014 18:20:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 18:20:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 18:20:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 18:20:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 18:20:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 18:20:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 18:20:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 18:20:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 18:20:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 18:20:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 18:20:03 Exit(): Raspilogger Exit() called
+11-26-2014 18:20:03 ExitLogger(): Closing debug log file
+11-26-2014 18:30:02 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 18:30:02 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 18:30:02 Init(): Raspilogger Init() completed
+11-26-2014 18:30:02 main(): Raspilogger initialized
+11-26-2014 18:30:02 main(): Reading data from DHT11 Sensor 1
+11-26-2014 18:30:02 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 18:30:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 18:30:02 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 18:30:03 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 18:30:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 18:30:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 18:30:04 main(): Storing data from DHT11 Sensor 1
+11-26-2014 18:30:04 main(): Reading data from DHT11 Sensor 2
+11-26-2014 18:30:04 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 18:30:04 ReadSensor(): Fetching data from DHT11
+11-26-2014 18:30:05 ReadSensor(): Data from DHT11 read OK
+11-26-2014 18:30:05 main(): Storing data from DHT11 Sensor 2
+11-26-2014 18:30:05 Exit(): Raspilogger Exit() called
+11-26-2014 18:30:05 ExitLogger(): Closing debug log file
+11-26-2014 18:40:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 18:40:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 18:40:01 Init(): Raspilogger Init() completed
+11-26-2014 18:40:01 main(): Raspilogger initialized
+11-26-2014 18:40:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 18:40:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 18:40:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 18:40:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 18:40:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 18:40:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 18:40:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 18:40:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 18:40:02 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 18:40:03 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 18:40:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 18:40:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 18:40:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 18:40:04 Exit(): Raspilogger Exit() called
+11-26-2014 18:40:04 ExitLogger(): Closing debug log file
+11-26-2014 18:50:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 18:50:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 18:50:01 Init(): Raspilogger Init() completed
+11-26-2014 18:50:01 main(): Raspilogger initialized
+11-26-2014 18:50:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 18:50:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 18:50:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 18:50:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 18:50:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 18:50:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 18:50:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 18:50:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 18:50:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 18:50:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 18:50:03 Exit(): Raspilogger Exit() called
+11-26-2014 18:50:03 ExitLogger(): Closing debug log file
+11-26-2014 19:00:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 19:00:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 19:00:01 Init(): Raspilogger Init() completed
+11-26-2014 19:00:01 main(): Raspilogger initialized
+11-26-2014 19:00:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 19:00:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 19:00:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 19:00:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 19:00:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 19:00:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 19:00:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 19:00:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 19:00:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 19:00:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 19:00:03 Exit(): Raspilogger Exit() called
+11-26-2014 19:00:03 ExitLogger(): Closing debug log file
+11-26-2014 19:10:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 19:10:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 19:10:01 Init(): Raspilogger Init() completed
+11-26-2014 19:10:01 main(): Raspilogger initialized
+11-26-2014 19:10:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 19:10:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 19:10:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 19:10:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 19:10:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 19:10:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 19:10:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 19:10:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 19:10:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 19:10:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 19:10:03 Exit(): Raspilogger Exit() called
+11-26-2014 19:10:03 ExitLogger(): Closing debug log file
+11-26-2014 19:20:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 19:20:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 19:20:01 Init(): Raspilogger Init() completed
+11-26-2014 19:20:01 main(): Raspilogger initialized
+11-26-2014 19:20:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 19:20:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 19:20:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 19:20:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 19:20:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 19:20:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 19:20:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 19:20:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 19:20:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 19:20:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 19:20:03 Exit(): Raspilogger Exit() called
+11-26-2014 19:20:03 ExitLogger(): Closing debug log file
+11-26-2014 19:30:02 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 19:30:02 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 19:30:02 Init(): Raspilogger Init() completed
+11-26-2014 19:30:02 main(): Raspilogger initialized
+11-26-2014 19:30:02 main(): Reading data from DHT11 Sensor 1
+11-26-2014 19:30:02 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 19:30:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 19:30:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 19:30:03 main(): Storing data from DHT11 Sensor 1
+11-26-2014 19:30:03 main(): Reading data from DHT11 Sensor 2
+11-26-2014 19:30:03 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 19:30:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 19:30:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 19:30:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 19:30:04 Exit(): Raspilogger Exit() called
+11-26-2014 19:30:04 ExitLogger(): Closing debug log file
+11-26-2014 19:40:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 19:40:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 19:40:01 Init(): Raspilogger Init() completed
+11-26-2014 19:40:01 main(): Raspilogger initialized
+11-26-2014 19:40:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 19:40:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 19:40:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 19:40:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 19:40:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 19:40:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 19:40:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 19:40:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 19:40:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 19:40:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 19:40:03 Exit(): Raspilogger Exit() called
+11-26-2014 19:40:03 ExitLogger(): Closing debug log file
+11-26-2014 19:50:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 19:50:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 19:50:01 Init(): Raspilogger Init() completed
+11-26-2014 19:50:01 main(): Raspilogger initialized
+11-26-2014 19:50:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 19:50:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 19:50:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 19:50:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 19:50:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 19:50:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 19:50:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 19:50:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 19:50:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 19:50:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 19:50:03 Exit(): Raspilogger Exit() called
+11-26-2014 19:50:03 ExitLogger(): Closing debug log file
+11-26-2014 20:00:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 20:00:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 20:00:01 Init(): Raspilogger Init() completed
+11-26-2014 20:00:01 main(): Raspilogger initialized
+11-26-2014 20:00:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 20:00:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 20:00:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 20:00:02 ReadDht11(): Failed reading DHT11 #1
+11-26-2014 20:00:02 ReadSensor(): Data from DHT11 ERROR - Retrying
+11-26-2014 20:00:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 20:00:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 20:00:03 main(): Storing data from DHT11 Sensor 1
+11-26-2014 20:00:03 main(): Reading data from DHT11 Sensor 2
+11-26-2014 20:00:03 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 20:00:03 ReadSensor(): Fetching data from DHT11
+11-26-2014 20:00:04 ReadSensor(): Data from DHT11 read OK
+11-26-2014 20:00:04 main(): Storing data from DHT11 Sensor 2
+11-26-2014 20:00:04 Exit(): Raspilogger Exit() called
+11-26-2014 20:00:04 ExitLogger(): Closing debug log file
+11-26-2014 20:10:01 InitLogger(): 
+
+#### New program session ####
+
+11-26-2014 20:10:01 InitLogger(): Logger initialized PrgDbgLog.txt for write
+11-26-2014 20:10:01 Init(): Raspilogger Init() completed
+11-26-2014 20:10:01 main(): Raspilogger initialized
+11-26-2014 20:10:01 main(): Reading data from DHT11 Sensor 1
+11-26-2014 20:10:01 ReadSensor(): Reading from DHT11 Sensor 1
+11-26-2014 20:10:01 ReadSensor(): Fetching data from DHT11
+11-26-2014 20:10:02 ReadSensor(): Data from DHT11 read OK
+11-26-2014 20:10:02 main(): Storing data from DHT11 Sensor 1
+11-26-2014 20:10:02 main(): Reading data from DHT11 Sensor 2
+11-26-2014 20:10:02 ReadSensor(): Reading from DHT11 Sensor 2
+11-26-2014 20:10:02 ReadSensor(): Fetching data from DHT11
+11-26-2014 20:10:03 ReadSensor(): Data from DHT11 read OK
+11-26-2014 20:10:03 main(): Storing data from DHT11 Sensor 2
+11-26-2014 20:10:03 Exit(): Raspilogger Exit() called
+11-26-2014 20:10:03 ExitLogger(): Closing debug log file
